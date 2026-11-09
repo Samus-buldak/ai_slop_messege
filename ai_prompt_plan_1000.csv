@@ -1,0 +1,1001 @@
+﻿i,topic,style,format,words,sender,recipient,detail,lang
+1,sending a reminder,warm and informal,with a subject and a single paragraph,74,volunteer,a service provider,a small technical issue,English
+2,describing a weekend plan,very short sentences,with a greeting but no signature,161,family friend,a project manager,a time-sensitive change,English
+3,planning a visit,casual but respectful,as a reply to an earlier conversation,250,classmate,a teammate,an unfinished task,English
+4,rescheduling a call,straight to the point,without a greeting,94,neighbor,a new client,an unanticipated expense,English
+5,changing a meeting time,slightly disorganized,with a subject and a single paragraph,63,colleague,a small group,an update after an earlier reply,English
+6,changing a meeting time,polite and professional,as a reply to an earlier conversation,60,volunteer,a close friend,a small favor,English
+7,describing a weekend plan,direct and practical,as a reply to an earlier conversation,54,family friend,a new client,an unexpectedly good outcome,English
+8,discussing classwork,casual but respectful,with ordinary paragraph breaks,250,organizer,a close friend,a tight deadline,English
+9,changing a meeting time,slightly disorganized,without a greeting,56,classmate,a neighbor,a helpful suggestion,English
+10,describing a weekend plan,casual but respectful,with ordinary paragraph breaks,74,family friend,a project manager,an update after an earlier reply,English
+11,asking for help with a technical issue,casual but respectful,with ordinary paragraph breaks,157,neighbor,an acquaintance,an unfinished task,English
+12,organizing a group activity,straight to the point,as a reply to an earlier conversation,213,student,a small group,a suggested alternative,English
+13,apologizing for a mix-up,matter-of-fact,with ordinary paragraph breaks,69,classmate,an acquaintance,a follow-up after two days,English
+14,apologizing for a mix-up,chatty,with a subject and a single paragraph,55,customer,a new client,a missing attachment,English
+15,sending a reminder,direct and practical,without a greeting,111,team lead,a service provider,an update after an earlier reply,English
+16,planning a visit,somewhat rushed,with a subject and a single paragraph,76,team lead,a professor,a travel disruption,English
+17,inviting a friend,polite and professional,with a short sign-off,228,community member,a project manager,a small favor,English
+18,sharing event details,warm and informal,with a short sign-off,45,club member,a new client,a conflicting commitment,English
+19,planning a visit,polite and professional,with ordinary paragraph breaks,75,classmate,a neighbor,an unanticipated expense,English
+20,sharing event details,reserved,with a subject and a single paragraph,72,classmate,a neighbor,a small favor,English
+21,sharing event details,direct and practical,with a short sign-off,160,club member,a teammate,an unanticipated expense,English
+22,asking for help with a technical issue,warm and informal,as a reply to an earlier conversation,61,freelancer,an acquaintance,a practical concern,English
+23,sending a reminder,slightly disorganized,with a greeting but no signature,49,freelancer,a service provider,a last-minute complication,English
+24,coordinating travel,reserved,without a greeting,250,club member,a professor,a tight deadline,English
+25,coordinating travel,very short sentences,with a greeting but no signature,56,student,a coworker,a tight deadline,English
+26,asking for help with a technical issue,warm and informal,with a short sign-off,140,volunteer,a small group,a missing attachment,English
+27,arranging a delivery,chatty,with a short sign-off,51,neighbor,a professor,an unexpectedly good outcome,English
+28,discussing classwork,polite and professional,with a greeting but no signature,234,freelancer,a new client,a last-minute complication,English
+29,asking for help with a technical issue,polite and professional,with a subject and a single paragraph,250,family friend,a teammate,a small technical issue,English
+30,coordinating travel,casual but respectful,without a greeting,100,team lead,a neighbor,an update after an earlier reply,English
+31,describing a weekend plan,matter-of-fact,with a short sign-off,250,customer,a project manager,an unfinished task,English
+32,asking for help with a technical issue,matter-of-fact,without a greeting,155,organizer,a professor,a practical concern,English
+33,clarifying a previous request,matter-of-fact,with a short sign-off,221,organizer,a service provider,a conflicting commitment,English
+34,asking a colleague a question,polite and professional,without a greeting,250,colleague,a teammate,a follow-up after two days,English
+35,inviting a friend,polite and professional,as a reply to an earlier conversation,154,colleague,a close friend,a tight deadline,English
+36,reporting a small problem,very short sentences,with a short sign-off,114,team lead,a new client,a small technical issue,English
+37,changing a meeting time,warm and informal,with a subject and a single paragraph,82,classmate,an acquaintance,an unfinished task,English
+38,sharing event details,friendly with colloquialisms,as a reply to an earlier conversation,202,club member,a teammate,a small favor,English
+39,rescheduling a call,friendly with colloquialisms,as a reply to an earlier conversation,60,organizer,a small group,a small technical issue,English
+40,changing a meeting time,straight to the point,with ordinary paragraph breaks,250,team lead,a project manager,a tight deadline,English
+41,asking for feedback,chatty,with ordinary paragraph breaks,133,organizer,a neighbor,an unfinished task,English
+42,sharing event details,very short sentences,with a greeting but no signature,250,student,a project manager,a follow-up after two days,English
+43,changing a meeting time,slightly disorganized,as a reply to an earlier conversation,150,community member,a professor,a slight disagreement,English
+44,asking for clarification about deadlines,very short sentences,with a greeting but no signature,62,community member,a new client,a small technical issue,English
+45,thanking a teammate,warm and informal,with a subject and a single paragraph,250,volunteer,a small group,a small favor,English
+46,planning a visit,straight to the point,with a short sign-off,92,support agent,an acquaintance,a follow-up after two days,English
+47,following up on a purchase,matter-of-fact,with a greeting but no signature,45,family friend,an acquaintance,a misread calendar entry,English
+48,clarifying a previous request,slightly disorganized,with a greeting but no signature,87,freelancer,a small group,an unclear instruction,English
+49,apologizing for a mix-up,matter-of-fact,with a subject and a single paragraph,250,family friend,a small group,an unclear instruction,English
+50,discussing classwork,slightly disorganized,without a greeting,167,neighbor,an acquaintance,a small favor,English
+51,replying about an appointment,warm and informal,as a reply to an earlier conversation,164,classmate,an acquaintance,a change in priorities,English
+52,requesting a document,matter-of-fact,with a subject and a single paragraph,107,colleague,an acquaintance,a travel disruption,English
+53,apologizing for a mix-up,slightly disorganized,with ordinary paragraph breaks,64,support agent,a small group,a last-minute complication,English
+54,describing a weekend plan,warm and informal,with a greeting but no signature,91,freelancer,a new client,a change in priorities,English
+55,sending a reminder,very short sentences,with a short sign-off,152,neighbor,an acquaintance,an unfinished task,English
+56,reporting a small problem,reserved,with a greeting but no signature,192,neighbor,a coworker,an unclear instruction,English
+57,thanking a teammate,warm and informal,with a short sign-off,135,club member,a neighbor,a change in priorities,English
+58,organizing a group activity,reserved,with a short sign-off,56,volunteer,an acquaintance,a helpful suggestion,English
+59,planning a visit,matter-of-fact,with ordinary paragraph breaks,89,classmate,a new client,a travel disruption,English
+60,project updates,polite and professional,with a subject and a single paragraph,161,support agent,a close friend,an update after an earlier reply,English
+61,sharing event details,reserved,with ordinary paragraph breaks,130,neighbor,a neighbor,a time-sensitive change,English
+62,chatting about hobbies,matter-of-fact,as a reply to an earlier conversation,95,freelancer,an acquaintance,a small technical issue,English
+63,project updates,slightly disorganized,with a subject and a single paragraph,45,family friend,an acquaintance,a travel disruption,English
+64,sharing event details,very short sentences,as a reply to an earlier conversation,127,support agent,a teammate,a missing attachment,English
+65,inviting a friend,direct and practical,as a reply to an earlier conversation,45,classmate,a neighbor,a tight deadline,English
+66,reporting a small problem,reserved,as a reply to an earlier conversation,62,support agent,a new client,a small favor,English
+67,reporting a small problem,warm and informal,with a greeting but no signature,236,freelancer,a service provider,an unanticipated expense,English
+68,requesting information about a service,straight to the point,with a greeting but no signature,250,neighbor,a project manager,an update after an earlier reply,English
+69,rescheduling a call,slightly disorganized,with a short sign-off,147,freelancer,a service provider,a last-minute complication,English
+70,asking for clarification about deadlines,matter-of-fact,with a short sign-off,52,student,a professor,a time-sensitive change,English
+71,arranging a delivery,somewhat rushed,with a greeting but no signature,250,freelancer,a coworker,an unclear instruction,English
+72,rescheduling a call,slightly disorganized,with a short sign-off,214,support agent,a service provider,an unexpectedly good outcome,English
+73,asking for help with a technical issue,matter-of-fact,with a subject and a single paragraph,86,customer,a neighbor,a last-minute complication,English
+74,discussing classwork,casual but respectful,without a greeting,211,volunteer,a small group,a tight deadline,English
+75,planning a visit,casual but respectful,with a subject and a single paragraph,161,support agent,a service provider,a helpful suggestion,English
+76,following up on a purchase,polite and professional,with a greeting but no signature,130,community member,a service provider,a follow-up after two days,English
+77,arranging a delivery,friendly with colloquialisms,with a subject and a single paragraph,250,family friend,a professor,a time-sensitive change,English
+78,clarifying a previous request,slightly disorganized,with a short sign-off,65,neighbor,a coworker,a follow-up after two days,English
+79,thanking a teammate,reserved,with a short sign-off,218,club member,an acquaintance,a travel disruption,English
+80,replying about an appointment,friendly with colloquialisms,with ordinary paragraph breaks,59,classmate,a service provider,a travel disruption,English
+81,describing a weekend plan,polite and professional,with a short sign-off,98,customer,a coworker,a time-sensitive change,English
+82,replying about an appointment,straight to the point,with a short sign-off,165,neighbor,a close friend,a small technical issue,English
+83,asking a colleague a question,very short sentences,with ordinary paragraph breaks,51,support agent,a teammate,an unfinished task,English
+84,coordinating travel,straight to the point,as a reply to an earlier conversation,71,neighbor,a professor,a small technical issue,English
+85,apologizing for a mix-up,warm and informal,with a greeting but no signature,250,colleague,an acquaintance,a follow-up after two days,English
+86,organizing a group activity,chatty,with a greeting but no signature,167,classmate,a project manager,a time-sensitive change,English
+87,responding to a complaint,polite and professional,with a short sign-off,160,customer,a neighbor,a time-sensitive change,English
+88,explaining a delay,friendly with colloquialisms,as a reply to an earlier conversation,148,organizer,a professor,a missing attachment,English
+89,chatting about hobbies,direct and practical,with a subject and a single paragraph,224,support agent,a professor,a practical concern,English
+90,thanking a teammate,straight to the point,without a greeting,79,club member,a teammate,a small favor,English
+91,changing a meeting time,casual but respectful,with a greeting but no signature,250,classmate,a new client,a time-sensitive change,English
+92,explaining a delay,polite and professional,with a subject and a single paragraph,45,student,a teammate,a small favor,English
+93,apologizing for a mix-up,somewhat rushed,with ordinary paragraph breaks,163,classmate,an acquaintance,a tight deadline,English
+94,describing a weekend plan,straight to the point,as a reply to an earlier conversation,56,club member,a small group,a slight disagreement,English
+95,rescheduling a call,slightly disorganized,with a subject and a single paragraph,51,student,a small group,a small favor,English
+96,apologizing for a mix-up,somewhat rushed,with ordinary paragraph breaks,45,neighbor,a service provider,a slight disagreement,English
+97,coordinating travel,chatty,with a greeting but no signature,75,customer,a service provider,a last-minute complication,English
+98,sharing event details,somewhat rushed,with ordinary paragraph breaks,250,colleague,a coworker,a last-minute complication,English
+99,coordinating travel,polite and professional,with ordinary paragraph breaks,161,volunteer,a professor,a small favor,English
+100,arranging a delivery,chatty,with a greeting but no signature,116,colleague,a project manager,a slight disagreement,English
+101,coordinating travel,somewhat rushed,without a greeting,139,freelancer,a project manager,a tight deadline,English
+102,arranging a delivery,very short sentences,with a subject and a single paragraph,86,classmate,a project manager,a helpful suggestion,English
+103,giving informal advice,casual but respectful,as a reply to an earlier conversation,97,support agent,a professor,a travel disruption,English
+104,rescheduling a call,straight to the point,with a short sign-off,250,colleague,a project manager,a follow-up after two days,English
+105,asking for clarification about deadlines,somewhat rushed,with a greeting but no signature,54,support agent,a teammate,an unfinished task,English
+106,thanking a teammate,chatty,as a reply to an earlier conversation,116,freelancer,a service provider,an unexpectedly good outcome,English
+107,changing a meeting time,straight to the point,as a reply to an earlier conversation,59,freelancer,a neighbor,an unfinished task,English
+108,inviting a friend,reserved,as a reply to an earlier conversation,58,colleague,a neighbor,an unexpectedly good outcome,English
+109,chatting about hobbies,direct and practical,with a greeting but no signature,87,freelancer,a service provider,a practical concern,English
+110,coordinating travel,slightly disorganized,with a short sign-off,118,customer,an acquaintance,an unanticipated expense,English
+111,replying about an appointment,straight to the point,without a greeting,97,classmate,a small group,a small technical issue,English
+112,explaining a delay,casual but respectful,with a short sign-off,45,neighbor,a service provider,a conflicting commitment,English
+113,responding to a complaint,polite and professional,as a reply to an earlier conversation,45,student,a professor,an unanticipated expense,English
+114,asking for help with a technical issue,friendly with colloquialisms,as a reply to an earlier conversation,54,customer,a close friend,a conflicting commitment,English
+115,rescheduling a call,very short sentences,with a greeting but no signature,46,community member,a coworker,a last-minute complication,English
+116,inviting a friend,matter-of-fact,with a greeting but no signature,103,customer,a neighbor,a time-sensitive change,English
+117,requesting a document,slightly disorganized,with a subject and a single paragraph,114,customer,a neighbor,a small technical issue,English
+118,explaining a delay,direct and practical,without a greeting,97,club member,a project manager,an update after an earlier reply,English
+119,asking for help with a technical issue,casual but respectful,with a short sign-off,250,support agent,a new client,a time-sensitive change,English
+120,sending a reminder,polite and professional,with a greeting but no signature,85,customer,a project manager,a small favor,English
+121,arranging a delivery,warm and informal,as a reply to an earlier conversation,60,customer,a project manager,a time-sensitive change,English
+122,following up on a purchase,somewhat rushed,with a short sign-off,250,colleague,a coworker,a slight disagreement,English
+123,rescheduling a call,very short sentences,without a greeting,133,classmate,a neighbor,a time-sensitive change,English
+124,chatting about hobbies,very short sentences,as a reply to an earlier conversation,161,community member,an acquaintance,a slight disagreement,English
+125,project updates,friendly with colloquialisms,with ordinary paragraph breaks,230,classmate,a close friend,a last-minute complication,English
+126,chatting about hobbies,casual but respectful,without a greeting,62,team lead,a neighbor,a practical concern,English
+127,requesting a document,somewhat rushed,with ordinary paragraph breaks,45,volunteer,an acquaintance,a tight deadline,English
+128,coordinating travel,casual but respectful,with ordinary paragraph breaks,53,team lead,a professor,an unfinished task,English
+129,apologizing for a mix-up,chatty,as a reply to an earlier conversation,56,team lead,a close friend,a travel disruption,English
+130,clarifying a previous request,matter-of-fact,with a greeting but no signature,250,student,a small group,a time-sensitive change,English
+131,asking for help with a technical issue,straight to the point,with a short sign-off,164,community member,a project manager,a small technical issue,English
+132,planning a visit,direct and practical,with a short sign-off,116,club member,a project manager,a suggested alternative,English
+133,arranging a delivery,warm and informal,with a short sign-off,202,team lead,a professor,a change in priorities,English
+134,asking for clarification about deadlines,somewhat rushed,with a subject and a single paragraph,250,classmate,a coworker,a travel disruption,English
+135,asking for feedback,warm and informal,with a subject and a single paragraph,71,classmate,a project manager,a small technical issue,English
+136,arranging a delivery,polite and professional,with a greeting but no signature,45,volunteer,a close friend,an unclear instruction,English
+137,asking a colleague a question,straight to the point,with ordinary paragraph breaks,250,organizer,a teammate,an unexpectedly good outcome,English
+138,asking a colleague a question,direct and practical,with a subject and a single paragraph,250,customer,a coworker,an update after an earlier reply,English
+139,apologizing for a mix-up,friendly with colloquialisms,with a greeting but no signature,90,team lead,a professor,a suggested alternative,English
+140,asking for clarification about deadlines,reserved,with a greeting but no signature,250,club member,a close friend,a slight disagreement,English
+141,requesting a document,slightly disorganized,with a greeting but no signature,250,colleague,a close friend,a missing attachment,English
+142,asking for clarification about deadlines,straight to the point,without a greeting,211,team lead,a professor,an unfinished task,English
+143,asking for clarification about deadlines,casual but respectful,with a subject and a single paragraph,249,family friend,a professor,a conflicting commitment,English
+144,project updates,chatty,with a short sign-off,50,neighbor,a professor,a follow-up after two days,English
+145,requesting information about a service,slightly disorganized,with a short sign-off,123,volunteer,a close friend,a last-minute complication,English
+146,replying about an appointment,friendly with colloquialisms,as a reply to an earlier conversation,72,family friend,a professor,a change in priorities,English
+147,thanking a teammate,direct and practical,with a short sign-off,105,volunteer,a project manager,a small favor,English
+148,rescheduling a call,direct and practical,as a reply to an earlier conversation,122,student,a neighbor,a follow-up after two days,English
+149,sending a reminder,somewhat rushed,with a short sign-off,57,student,a new client,a misread calendar entry,English
+150,organizing a group activity,friendly with colloquialisms,as a reply to an earlier conversation,187,family friend,an acquaintance,an unanticipated expense,English
+151,rescheduling a call,slightly disorganized,as a reply to an earlier conversation,250,classmate,a new client,a conflicting commitment,English
+152,inviting a friend,casual but respectful,with a subject and a single paragraph,50,volunteer,a project manager,a small technical issue,English
+153,sharing event details,somewhat rushed,with ordinary paragraph breaks,99,neighbor,a neighbor,an unexpectedly good outcome,English
+154,coordinating travel,direct and practical,with a greeting but no signature,250,team lead,a neighbor,a suggested alternative,English
+155,responding to a complaint,matter-of-fact,without a greeting,109,customer,a professor,a small technical issue,English
+156,requesting information about a service,slightly disorganized,with a short sign-off,47,classmate,a project manager,a small favor,English
+157,responding to a complaint,direct and practical,with a subject and a single paragraph,45,support agent,a small group,a small favor,English
+158,project updates,reserved,without a greeting,116,classmate,a professor,a helpful suggestion,English
+159,explaining a delay,polite and professional,with ordinary paragraph breaks,45,organizer,a professor,a missing attachment,English
+160,apologizing for a mix-up,reserved,with a greeting but no signature,45,team lead,a coworker,a small technical issue,English
+161,chatting about hobbies,slightly disorganized,with a subject and a single paragraph,50,team lead,a teammate,a suggested alternative,English
+162,discussing classwork,direct and practical,without a greeting,45,customer,a close friend,a small favor,English
+163,following up on a purchase,somewhat rushed,with a subject and a single paragraph,217,customer,a coworker,an unexpectedly good outcome,English
+164,apologizing for a mix-up,friendly with colloquialisms,with ordinary paragraph breaks,45,freelancer,a neighbor,a small favor,English
+165,thanking a teammate,direct and practical,with a short sign-off,53,support agent,a new client,an update after an earlier reply,English
+166,project updates,casual but respectful,with ordinary paragraph breaks,94,neighbor,an acquaintance,a time-sensitive change,English
+167,sending a reminder,reserved,without a greeting,152,customer,a neighbor,an unfinished task,English
+168,rescheduling a call,somewhat rushed,with a subject and a single paragraph,150,customer,a neighbor,an unexpectedly good outcome,English
+169,requesting a document,chatty,with a subject and a single paragraph,61,family friend,a service provider,an unanticipated expense,English
+170,rescheduling a call,direct and practical,with a short sign-off,228,volunteer,a small group,a travel disruption,English
+171,describing a weekend plan,chatty,as a reply to an earlier conversation,133,community member,an acquaintance,a change in priorities,English
+172,explaining a delay,reserved,with a subject and a single paragraph,50,volunteer,an acquaintance,a time-sensitive change,English
+173,project updates,straight to the point,with a short sign-off,186,colleague,a close friend,an unfinished task,English
+174,project updates,reserved,with a short sign-off,78,classmate,a teammate,a travel disruption,English
+175,chatting about hobbies,very short sentences,with a subject and a single paragraph,250,student,a project manager,a last-minute complication,English
+176,clarifying a previous request,chatty,with ordinary paragraph breaks,250,community member,a new client,a suggested alternative,English
+177,arranging a delivery,matter-of-fact,as a reply to an earlier conversation,63,classmate,a project manager,a suggested alternative,English
+178,planning a visit,very short sentences,with ordinary paragraph breaks,111,customer,a coworker,a small favor,English
+179,sending a reminder,friendly with colloquialisms,as a reply to an earlier conversation,78,organizer,an acquaintance,a slight disagreement,English
+180,sending a reminder,straight to the point,without a greeting,250,colleague,a small group,a misread calendar entry,English
+181,asking for help with a technical issue,somewhat rushed,with a greeting but no signature,45,customer,a teammate,a last-minute complication,English
+182,rescheduling a call,polite and professional,with a greeting but no signature,250,support agent,a small group,a missing attachment,English
+183,asking for help with a technical issue,chatty,with ordinary paragraph breaks,45,organizer,a small group,a small technical issue,English
+184,inviting a friend,reserved,as a reply to an earlier conversation,136,support agent,a project manager,a travel disruption,English
+185,clarifying a previous request,reserved,without a greeting,50,club member,a professor,a small favor,English
+186,inviting a friend,casual but respectful,with a greeting but no signature,107,club member,a coworker,a helpful suggestion,English
+187,following up on a purchase,reserved,as a reply to an earlier conversation,250,volunteer,a close friend,a suggested alternative,English
+188,project updates,very short sentences,as a reply to an earlier conversation,124,community member,a close friend,a conflicting commitment,English
+189,following up on a purchase,polite and professional,without a greeting,250,club member,a close friend,an update after an earlier reply,English
+190,explaining a delay,slightly disorganized,with a greeting but no signature,52,freelancer,a project manager,a suggested alternative,English
+191,asking a colleague a question,matter-of-fact,with a subject and a single paragraph,65,support agent,a teammate,a small technical issue,English
+192,replying about an appointment,matter-of-fact,with a subject and a single paragraph,190,freelancer,a close friend,a misread calendar entry,English
+193,replying about an appointment,warm and informal,without a greeting,45,volunteer,a service provider,an update after an earlier reply,English
+194,planning a visit,direct and practical,with a greeting but no signature,114,neighbor,a new client,a small favor,English
+195,asking for help with a technical issue,slightly disorganized,as a reply to an earlier conversation,207,customer,a teammate,an unfinished task,English
+196,asking for help with a technical issue,straight to the point,without a greeting,89,family friend,a coworker,a slight disagreement,English
+197,requesting a document,matter-of-fact,with a subject and a single paragraph,116,community member,a coworker,a small technical issue,English
+198,asking a colleague a question,casual but respectful,with a greeting but no signature,54,organizer,a new client,a last-minute complication,English
+199,apologizing for a mix-up,reserved,as a reply to an earlier conversation,211,organizer,a professor,a helpful suggestion,English
+200,sharing event details,warm and informal,with a greeting but no signature,250,volunteer,a close friend,a conflicting commitment,English
+201,replying about an appointment,somewhat rushed,without a greeting,55,support agent,a coworker,an unanticipated expense,English
+202,following up on a purchase,casual but respectful,with a subject and a single paragraph,81,support agent,a coworker,an unanticipated expense,English
+203,rescheduling a call,reserved,without a greeting,250,student,a small group,a follow-up after two days,English
+204,sending a reminder,straight to the point,with a short sign-off,91,community member,a coworker,an unexpectedly good outcome,English
+205,arranging a delivery,warm and informal,as a reply to an earlier conversation,250,student,a coworker,a time-sensitive change,English
+206,inviting a friend,casual but respectful,with a subject and a single paragraph,195,team lead,a close friend,an unanticipated expense,English
+207,project updates,very short sentences,without a greeting,50,volunteer,a professor,a conflicting commitment,English
+208,project updates,very short sentences,as a reply to an earlier conversation,250,club member,an acquaintance,a small favor,English
+209,coordinating travel,reserved,with a greeting but no signature,250,support agent,a small group,a tight deadline,English
+210,asking for feedback,reserved,with a subject and a single paragraph,250,customer,a small group,a missing attachment,English
+211,planning a visit,friendly with colloquialisms,with ordinary paragraph breaks,128,organizer,a neighbor,a helpful suggestion,English
+212,describing a weekend plan,warm and informal,with a short sign-off,69,customer,a coworker,a travel disruption,English
+213,requesting information about a service,very short sentences,with a greeting but no signature,89,support agent,a close friend,an unexpectedly good outcome,English
+214,reporting a small problem,somewhat rushed,with ordinary paragraph breaks,143,volunteer,a close friend,a small technical issue,English
+215,sharing event details,straight to the point,without a greeting,53,support agent,a service provider,a change in priorities,English
+216,coordinating travel,straight to the point,with ordinary paragraph breaks,45,community member,a neighbor,an unanticipated expense,English
+217,giving informal advice,direct and practical,with a subject and a single paragraph,250,club member,a service provider,an unclear instruction,English
+218,asking for feedback,somewhat rushed,with a short sign-off,60,freelancer,a neighbor,a time-sensitive change,English
+219,sharing event details,very short sentences,with a subject and a single paragraph,161,volunteer,a teammate,a time-sensitive change,English
+220,planning a visit,matter-of-fact,without a greeting,250,classmate,a neighbor,an unexpectedly good outcome,English
+221,requesting information about a service,reserved,as a reply to an earlier conversation,53,team lead,a coworker,a helpful suggestion,English
+222,discussing classwork,warm and informal,with a short sign-off,180,neighbor,a coworker,an update after an earlier reply,English
+223,asking for feedback,casual but respectful,with a greeting but no signature,203,team lead,a service provider,a small technical issue,English
+224,clarifying a previous request,very short sentences,with ordinary paragraph breaks,116,colleague,a service provider,a practical concern,English
+225,arranging a delivery,polite and professional,with a short sign-off,146,colleague,a coworker,an unanticipated expense,English
+226,asking for feedback,chatty,with a greeting but no signature,86,customer,a service provider,a misread calendar entry,English
+227,planning a visit,very short sentences,with a short sign-off,58,freelancer,a service provider,an unexpectedly good outcome,English
+228,asking for feedback,somewhat rushed,without a greeting,250,organizer,a service provider,an unclear instruction,English
+229,apologizing for a mix-up,straight to the point,with a subject and a single paragraph,78,student,a new client,a helpful suggestion,English
+230,replying about an appointment,chatty,with a subject and a single paragraph,249,family friend,an acquaintance,a suggested alternative,English
+231,responding to a complaint,slightly disorganized,as a reply to an earlier conversation,215,support agent,a small group,an unfinished task,English
+232,rescheduling a call,matter-of-fact,with a greeting but no signature,152,student,a professor,an unanticipated expense,English
+233,giving informal advice,warm and informal,with a subject and a single paragraph,233,classmate,a small group,a suggested alternative,English
+234,arranging a delivery,friendly with colloquialisms,with a short sign-off,225,neighbor,a coworker,an unanticipated expense,English
+235,arranging a delivery,very short sentences,without a greeting,53,colleague,an acquaintance,an unanticipated expense,English
+236,sharing event details,friendly with colloquialisms,without a greeting,139,customer,a teammate,a conflicting commitment,English
+237,rescheduling a call,casual but respectful,without a greeting,108,organizer,a professor,an unfinished task,English
+238,rescheduling a call,casual but respectful,with a subject and a single paragraph,250,volunteer,a close friend,a small favor,English
+239,project updates,matter-of-fact,with a short sign-off,76,community member,a project manager,an update after an earlier reply,English
+240,giving informal advice,matter-of-fact,without a greeting,85,customer,a neighbor,an unfinished task,English
+241,describing a weekend plan,direct and practical,with a subject and a single paragraph,228,customer,a teammate,a small technical issue,English
+242,following up on a purchase,casual but respectful,without a greeting,250,colleague,a neighbor,a suggested alternative,English
+243,asking for clarification about deadlines,slightly disorganized,with ordinary paragraph breaks,250,freelancer,a coworker,a time-sensitive change,English
+244,project updates,polite and professional,as a reply to an earlier conversation,47,team lead,a neighbor,a missing attachment,English
+245,describing a weekend plan,slightly disorganized,with ordinary paragraph breaks,45,neighbor,a close friend,a helpful suggestion,English
+246,sending a reminder,casual but respectful,as a reply to an earlier conversation,79,colleague,a teammate,a travel disruption,English
+247,explaining a delay,slightly disorganized,as a reply to an earlier conversation,59,family friend,a teammate,a missing attachment,English
+248,coordinating travel,direct and practical,as a reply to an earlier conversation,92,classmate,a teammate,a change in priorities,English
+249,responding to a complaint,casual but respectful,without a greeting,95,freelancer,a project manager,an unclear instruction,English
+250,changing a meeting time,warm and informal,with a greeting but no signature,111,team lead,a coworker,a travel disruption,English
+251,arranging a delivery,warm and informal,with a subject and a single paragraph,50,colleague,a service provider,a slight disagreement,English
+252,sending a reminder,chatty,with a short sign-off,91,freelancer,a service provider,a follow-up after two days,English
+253,apologizing for a mix-up,very short sentences,with a greeting but no signature,196,organizer,a teammate,an update after an earlier reply,English
+254,requesting information about a service,friendly with colloquialisms,with a short sign-off,102,colleague,an acquaintance,a time-sensitive change,English
+255,describing a weekend plan,somewhat rushed,with a subject and a single paragraph,45,community member,an acquaintance,a tight deadline,English
+256,replying about an appointment,very short sentences,with a greeting but no signature,45,community member,a project manager,an unanticipated expense,English
+257,following up on a purchase,friendly with colloquialisms,with a short sign-off,45,customer,a coworker,a missing attachment,English
+258,apologizing for a mix-up,polite and professional,with a short sign-off,250,family friend,a close friend,a helpful suggestion,English
+259,project updates,reserved,with ordinary paragraph breaks,83,student,a professor,an unexpectedly good outcome,English
+260,responding to a complaint,very short sentences,as a reply to an earlier conversation,89,neighbor,a project manager,a small favor,English
+261,thanking a teammate,casual but respectful,without a greeting,250,freelancer,a close friend,a conflicting commitment,English
+262,arranging a delivery,casual but respectful,as a reply to an earlier conversation,167,freelancer,a project manager,a follow-up after two days,English
+263,requesting a document,straight to the point,with a subject and a single paragraph,59,community member,a professor,a last-minute complication,English
+264,responding to a complaint,matter-of-fact,with ordinary paragraph breaks,87,community member,a new client,a slight disagreement,English
+265,clarifying a previous request,matter-of-fact,as a reply to an earlier conversation,45,customer,a teammate,a slight disagreement,English
+266,rescheduling a call,slightly disorganized,with ordinary paragraph breaks,172,community member,an acquaintance,an unclear instruction,English
+267,asking for clarification about deadlines,warm and informal,with ordinary paragraph breaks,135,support agent,a teammate,a small favor,English
+268,asking a colleague a question,friendly with colloquialisms,with a subject and a single paragraph,140,community member,a close friend,an update after an earlier reply,English
+269,asking for clarification about deadlines,friendly with colloquialisms,with ordinary paragraph breaks,45,neighbor,a neighbor,a time-sensitive change,English
+270,replying about an appointment,warm and informal,with a greeting but no signature,53,support agent,a service provider,a change in priorities,English
+271,thanking a teammate,very short sentences,with ordinary paragraph breaks,113,volunteer,a small group,a slight disagreement,English
+272,rescheduling a call,reserved,without a greeting,128,customer,an acquaintance,a misread calendar entry,English
+273,planning a visit,straight to the point,without a greeting,45,customer,a close friend,an update after an earlier reply,English
+274,coordinating travel,casual but respectful,with a subject and a single paragraph,45,club member,a neighbor,a suggested alternative,English
+275,requesting a document,matter-of-fact,with a greeting but no signature,82,student,a coworker,a small favor,English
+276,giving informal advice,casual but respectful,without a greeting,250,volunteer,a new client,a follow-up after two days,English
+277,sending a reminder,very short sentences,as a reply to an earlier conversation,250,student,a project manager,a slight disagreement,English
+278,asking for clarification about deadlines,very short sentences,with ordinary paragraph breaks,103,family friend,a coworker,a small technical issue,English
+279,changing a meeting time,matter-of-fact,as a reply to an earlier conversation,61,colleague,an acquaintance,an unexpectedly good outcome,English
+280,asking a colleague a question,direct and practical,with a greeting but no signature,250,support agent,a project manager,a follow-up after two days,English
+281,following up on a purchase,somewhat rushed,without a greeting,65,family friend,a project manager,a last-minute complication,English
+282,clarifying a previous request,reserved,without a greeting,201,family friend,a professor,a tight deadline,English
+283,requesting information about a service,reserved,with ordinary paragraph breaks,118,freelancer,a small group,a small favor,English
+284,discussing classwork,polite and professional,without a greeting,237,family friend,a new client,an unclear instruction,English
+285,organizing a group activity,matter-of-fact,with a subject and a single paragraph,250,organizer,a neighbor,a tight deadline,English
+286,project updates,warm and informal,as a reply to an earlier conversation,46,community member,a neighbor,an unclear instruction,English
+287,replying about an appointment,very short sentences,without a greeting,103,student,a coworker,a helpful suggestion,English
+288,inviting a friend,chatty,as a reply to an earlier conversation,54,family friend,a service provider,an unclear instruction,English
+289,sharing event details,chatty,with a short sign-off,136,colleague,a professor,a misread calendar entry,English
+290,coordinating travel,polite and professional,with a short sign-off,161,organizer,a neighbor,a last-minute complication,English
+291,changing a meeting time,somewhat rushed,with a greeting but no signature,224,team lead,a coworker,a misread calendar entry,English
+292,inviting a friend,friendly with colloquialisms,with a greeting but no signature,250,neighbor,a coworker,a conflicting commitment,English
+293,organizing a group activity,somewhat rushed,with a subject and a single paragraph,67,freelancer,a project manager,an unclear instruction,English
+294,replying about an appointment,polite and professional,with a short sign-off,215,student,a new client,a slight disagreement,English
+295,asking for help with a technical issue,reserved,as a reply to an earlier conversation,69,customer,a close friend,an unfinished task,English
+296,coordinating travel,direct and practical,with a greeting but no signature,69,community member,a new client,a last-minute complication,English
+297,following up on a purchase,slightly disorganized,without a greeting,250,neighbor,an acquaintance,a tight deadline,English
+298,following up on a purchase,chatty,as a reply to an earlier conversation,250,student,a coworker,a suggested alternative,English
+299,apologizing for a mix-up,direct and practical,with a subject and a single paragraph,45,team lead,a new client,a practical concern,English
+300,sharing event details,casual but respectful,without a greeting,54,student,a teammate,a travel disruption,English
+301,asking for feedback,reserved,with a subject and a single paragraph,45,classmate,a coworker,a missing attachment,English
+302,project updates,chatty,with a greeting but no signature,250,team lead,a project manager,an unclear instruction,English
+303,inviting a friend,reserved,without a greeting,211,student,a new client,a last-minute complication,English
+304,giving informal advice,reserved,with a subject and a single paragraph,250,support agent,a teammate,a tight deadline,English
+305,sharing event details,matter-of-fact,as a reply to an earlier conversation,104,freelancer,a professor,a conflicting commitment,English
+306,organizing a group activity,chatty,with a short sign-off,45,organizer,a neighbor,a misread calendar entry,English
+307,following up on a purchase,friendly with colloquialisms,with a short sign-off,150,club member,a small group,an unanticipated expense,English
+308,explaining a delay,warm and informal,with a short sign-off,89,club member,a project manager,an unexpectedly good outcome,English
+309,sending a reminder,warm and informal,with ordinary paragraph breaks,227,freelancer,a service provider,an unexpectedly good outcome,English
+310,requesting information about a service,somewhat rushed,with a short sign-off,250,team lead,a project manager,an unfinished task,English
+311,following up on a purchase,reserved,with a greeting but no signature,53,community member,a close friend,a conflicting commitment,English
+312,responding to a complaint,casual but respectful,with a greeting but no signature,47,community member,a coworker,an unexpectedly good outcome,English
+313,inviting a friend,friendly with colloquialisms,as a reply to an earlier conversation,117,family friend,a close friend,a follow-up after two days,English
+314,responding to a complaint,slightly disorganized,with a short sign-off,117,support agent,a teammate,a travel disruption,English
+315,following up on a purchase,polite and professional,with a subject and a single paragraph,250,community member,an acquaintance,a small technical issue,English
+316,replying about an appointment,direct and practical,without a greeting,250,student,a teammate,an unanticipated expense,English
+317,rescheduling a call,straight to the point,with a short sign-off,146,student,a teammate,an unexpectedly good outcome,English
+318,explaining a delay,direct and practical,as a reply to an earlier conversation,77,community member,a new client,a change in priorities,English
+319,changing a meeting time,reserved,with ordinary paragraph breaks,250,community member,a teammate,a change in priorities,English
+320,explaining a delay,reserved,with a subject and a single paragraph,77,classmate,a close friend,a change in priorities,English
+321,clarifying a previous request,chatty,with a subject and a single paragraph,63,classmate,a neighbor,a last-minute complication,English
+322,arranging a delivery,somewhat rushed,with a short sign-off,250,freelancer,a teammate,a slight disagreement,English
+323,following up on a purchase,somewhat rushed,with a greeting but no signature,143,family friend,a small group,an update after an earlier reply,English
+324,thanking a teammate,casual but respectful,with a subject and a single paragraph,60,student,a new client,a helpful suggestion,English
+325,following up on a purchase,matter-of-fact,with ordinary paragraph breaks,58,support agent,a project manager,a slight disagreement,English
+326,organizing a group activity,warm and informal,with ordinary paragraph breaks,45,neighbor,a close friend,a conflicting commitment,English
+327,sending a reminder,chatty,as a reply to an earlier conversation,85,student,a service provider,a suggested alternative,English
+328,rescheduling a call,reserved,as a reply to an earlier conversation,250,student,a service provider,a tight deadline,English
+329,asking for clarification about deadlines,straight to the point,with ordinary paragraph breaks,108,community member,a teammate,an update after an earlier reply,English
+330,project updates,polite and professional,with a subject and a single paragraph,159,family friend,a close friend,an unexpectedly good outcome,English
+331,replying about an appointment,friendly with colloquialisms,as a reply to an earlier conversation,116,colleague,a service provider,an unfinished task,English
+332,sharing event details,reserved,with a greeting but no signature,168,volunteer,a small group,a follow-up after two days,English
+333,responding to a complaint,casual but respectful,with a greeting but no signature,52,customer,a project manager,an unexpectedly good outcome,English
+334,chatting about hobbies,very short sentences,with a subject and a single paragraph,250,club member,a small group,a small technical issue,English
+335,discussing classwork,slightly disorganized,without a greeting,153,support agent,a coworker,an update after an earlier reply,English
+336,reporting a small problem,straight to the point,with a short sign-off,109,customer,a teammate,a follow-up after two days,English
+337,responding to a complaint,chatty,without a greeting,77,customer,a new client,a last-minute complication,English
+338,apologizing for a mix-up,casual but respectful,with a subject and a single paragraph,72,classmate,a service provider,an unexpectedly good outcome,English
+339,sending a reminder,somewhat rushed,with a greeting but no signature,250,volunteer,a service provider,a last-minute complication,English
+340,requesting a document,reserved,with ordinary paragraph breaks,86,student,a neighbor,a follow-up after two days,English
+341,giving informal advice,matter-of-fact,with ordinary paragraph breaks,52,classmate,a professor,an unexpectedly good outcome,English
+342,inviting a friend,slightly disorganized,without a greeting,90,freelancer,a coworker,a conflicting commitment,English
+343,planning a visit,somewhat rushed,without a greeting,85,team lead,a service provider,a suggested alternative,English
+344,sending a reminder,reserved,with a short sign-off,113,classmate,a project manager,a travel disruption,English
+345,arranging a delivery,straight to the point,without a greeting,94,neighbor,a teammate,an unclear instruction,English
+346,organizing a group activity,chatty,without a greeting,205,team lead,a teammate,a suggested alternative,English
+347,discussing classwork,chatty,with ordinary paragraph breaks,71,student,a small group,a misread calendar entry,English
+348,asking for feedback,reserved,with a subject and a single paragraph,71,volunteer,a new client,a tight deadline,English
+349,organizing a group activity,friendly with colloquialisms,as a reply to an earlier conversation,107,customer,a close friend,an unfinished task,English
+350,coordinating travel,somewhat rushed,as a reply to an earlier conversation,45,freelancer,a project manager,an update after an earlier reply,English
+351,asking for feedback,casual but respectful,with a short sign-off,250,customer,an acquaintance,an update after an earlier reply,English
+352,arranging a delivery,straight to the point,with a subject and a single paragraph,74,club member,a professor,a change in priorities,English
+353,describing a weekend plan,warm and informal,with a greeting but no signature,86,support agent,a new client,a helpful suggestion,English
+354,asking for feedback,chatty,with a short sign-off,48,neighbor,a teammate,a small technical issue,English
+355,organizing a group activity,friendly with colloquialisms,with a greeting but no signature,191,colleague,a service provider,an unclear instruction,English
+356,requesting a document,reserved,with a subject and a single paragraph,87,club member,a close friend,a practical concern,English
+357,asking for clarification about deadlines,matter-of-fact,with a short sign-off,62,volunteer,a small group,a small technical issue,English
+358,discussing classwork,reserved,with a subject and a single paragraph,59,community member,a neighbor,a misread calendar entry,English
+359,asking for help with a technical issue,warm and informal,with a subject and a single paragraph,250,organizer,a close friend,an unclear instruction,English
+360,asking for help with a technical issue,warm and informal,as a reply to an earlier conversation,80,customer,a coworker,an unanticipated expense,English
+361,describing a weekend plan,very short sentences,with a greeting but no signature,114,colleague,an acquaintance,a small technical issue,English
+362,replying about an appointment,very short sentences,without a greeting,74,volunteer,a teammate,a small favor,English
+363,asking for feedback,casual but respectful,with a short sign-off,95,community member,a service provider,a helpful suggestion,English
+364,sharing event details,matter-of-fact,as a reply to an earlier conversation,53,volunteer,a small group,an unclear instruction,English
+365,explaining a delay,reserved,as a reply to an earlier conversation,74,freelancer,a neighbor,an unanticipated expense,English
+366,asking for clarification about deadlines,very short sentences,without a greeting,125,organizer,a coworker,a last-minute complication,English
+367,replying about an appointment,matter-of-fact,with ordinary paragraph breaks,95,student,a teammate,a conflicting commitment,English
+368,asking for feedback,chatty,with a greeting but no signature,107,freelancer,a small group,an unclear instruction,English
+369,describing a weekend plan,matter-of-fact,as a reply to an earlier conversation,45,classmate,a professor,an update after an earlier reply,English
+370,giving informal advice,straight to the point,with a greeting but no signature,86,club member,an acquaintance,a misread calendar entry,English
+371,planning a visit,very short sentences,without a greeting,62,colleague,a close friend,a travel disruption,English
+372,requesting a document,casual but respectful,with a short sign-off,250,freelancer,a new client,a small technical issue,English
+373,asking a colleague a question,very short sentences,with a short sign-off,50,team lead,an acquaintance,a small technical issue,English
+374,giving informal advice,warm and informal,as a reply to an earlier conversation,250,colleague,a teammate,a follow-up after two days,English
+375,reporting a small problem,slightly disorganized,as a reply to an earlier conversation,250,volunteer,an acquaintance,a last-minute complication,English
+376,coordinating travel,straight to the point,with a subject and a single paragraph,250,support agent,a professor,an unfinished task,English
+377,project updates,straight to the point,without a greeting,96,organizer,a coworker,a small technical issue,English
+378,requesting information about a service,somewhat rushed,with a subject and a single paragraph,187,organizer,an acquaintance,a small technical issue,English
+379,planning a visit,matter-of-fact,with ordinary paragraph breaks,63,neighbor,an acquaintance,a tight deadline,English
+380,replying about an appointment,slightly disorganized,without a greeting,103,team lead,a project manager,a practical concern,English
+381,giving informal advice,chatty,without a greeting,159,family friend,a service provider,a conflicting commitment,English
+382,replying about an appointment,warm and informal,without a greeting,227,support agent,an acquaintance,a practical concern,English
+383,rescheduling a call,casual but respectful,as a reply to an earlier conversation,201,support agent,a project manager,an unanticipated expense,English
+384,chatting about hobbies,straight to the point,without a greeting,60,team lead,a teammate,a travel disruption,English
+385,asking for help with a technical issue,friendly with colloquialisms,with a subject and a single paragraph,109,club member,a teammate,a small technical issue,English
+386,asking for help with a technical issue,warm and informal,without a greeting,139,organizer,a coworker,an update after an earlier reply,English
+387,asking for help with a technical issue,polite and professional,with ordinary paragraph breaks,150,classmate,a new client,an unclear instruction,English
+388,describing a weekend plan,warm and informal,with a subject and a single paragraph,60,club member,a teammate,a helpful suggestion,English
+389,thanking a teammate,very short sentences,with a subject and a single paragraph,72,organizer,a service provider,a time-sensitive change,English
+390,requesting information about a service,straight to the point,as a reply to an earlier conversation,151,neighbor,a project manager,a change in priorities,English
+391,discussing classwork,slightly disorganized,with a greeting but no signature,45,family friend,a neighbor,a travel disruption,English
+392,organizing a group activity,somewhat rushed,with a greeting but no signature,116,classmate,a project manager,a change in priorities,English
+393,reporting a small problem,slightly disorganized,as a reply to an earlier conversation,75,freelancer,a service provider,an unanticipated expense,English
+394,inviting a friend,very short sentences,as a reply to an earlier conversation,45,neighbor,a new client,an update after an earlier reply,English
+395,thanking a teammate,direct and practical,with a greeting but no signature,137,customer,a neighbor,an unanticipated expense,English
+396,requesting information about a service,casual but respectful,with a short sign-off,220,colleague,an acquaintance,an unfinished task,English
+397,coordinating travel,straight to the point,without a greeting,202,neighbor,a coworker,a tight deadline,English
+398,planning a visit,matter-of-fact,without a greeting,123,community member,a neighbor,an unfinished task,English
+399,changing a meeting time,friendly with colloquialisms,with a subject and a single paragraph,219,support agent,a small group,a time-sensitive change,English
+400,project updates,somewhat rushed,as a reply to an earlier conversation,229,freelancer,a new client,a slight disagreement,English
+401,asking for clarification about deadlines,direct and practical,with a subject and a single paragraph,78,organizer,a neighbor,an update after an earlier reply,English
+402,asking for help with a technical issue,warm and informal,with a greeting but no signature,220,neighbor,a service provider,an unanticipated expense,English
+403,sending a reminder,somewhat rushed,with a subject and a single paragraph,250,customer,a coworker,an unclear instruction,English
+404,explaining a delay,friendly with colloquialisms,with a short sign-off,65,family friend,a teammate,an unfinished task,English
+405,responding to a complaint,warm and informal,with a subject and a single paragraph,52,freelancer,a service provider,a misread calendar entry,English
+406,reporting a small problem,slightly disorganized,without a greeting,103,freelancer,a project manager,a slight disagreement,English
+407,sharing event details,direct and practical,without a greeting,86,family friend,a small group,a practical concern,English
+408,discussing classwork,straight to the point,with a greeting but no signature,250,community member,a small group,a tight deadline,English
+409,requesting a document,straight to the point,with ordinary paragraph breaks,55,classmate,a project manager,a helpful suggestion,English
+410,asking for feedback,somewhat rushed,with ordinary paragraph breaks,228,organizer,a small group,a helpful suggestion,English
+411,requesting information about a service,chatty,as a reply to an earlier conversation,45,freelancer,a new client,a follow-up after two days,English
+412,explaining a delay,warm and informal,as a reply to an earlier conversation,230,classmate,a new client,a missing attachment,English
+413,requesting a document,slightly disorganized,with a greeting but no signature,115,volunteer,an acquaintance,a change in priorities,English
+414,asking for help with a technical issue,straight to the point,with a short sign-off,109,customer,an acquaintance,an update after an earlier reply,English
+415,project updates,polite and professional,with a greeting but no signature,250,club member,a teammate,a conflicting commitment,English
+416,rescheduling a call,very short sentences,with a subject and a single paragraph,66,volunteer,a project manager,a misread calendar entry,English
+417,apologizing for a mix-up,friendly with colloquialisms,with a subject and a single paragraph,45,classmate,an acquaintance,an unexpectedly good outcome,English
+418,planning a visit,reserved,without a greeting,130,student,a service provider,a practical concern,English
+419,sending a reminder,friendly with colloquialisms,without a greeting,45,family friend,a small group,a practical concern,English
+420,following up on a purchase,slightly disorganized,as a reply to an earlier conversation,250,customer,a teammate,an unexpectedly good outcome,English
+421,inviting a friend,somewhat rushed,with ordinary paragraph breaks,137,student,a neighbor,an unanticipated expense,English
+422,responding to a complaint,straight to the point,as a reply to an earlier conversation,215,neighbor,a small group,a suggested alternative,English
+423,describing a weekend plan,matter-of-fact,as a reply to an earlier conversation,250,support agent,a teammate,a follow-up after two days,English
+424,rescheduling a call,warm and informal,with a short sign-off,209,neighbor,an acquaintance,a conflicting commitment,English
+425,planning a visit,slightly disorganized,without a greeting,68,support agent,a project manager,an unanticipated expense,English
+426,reporting a small problem,polite and professional,with a subject and a single paragraph,86,freelancer,a new client,a small favor,English
+427,asking for help with a technical issue,slightly disorganized,with ordinary paragraph breaks,85,colleague,a new client,an unexpectedly good outcome,English
+428,thanking a teammate,straight to the point,with a short sign-off,250,organizer,a project manager,a travel disruption,English
+429,apologizing for a mix-up,slightly disorganized,without a greeting,228,customer,an acquaintance,a conflicting commitment,English
+430,replying about an appointment,casual but respectful,with ordinary paragraph breaks,95,community member,a small group,a follow-up after two days,English
+431,rescheduling a call,straight to the point,with ordinary paragraph breaks,82,classmate,a new client,an unfinished task,English
+432,discussing classwork,casual but respectful,as a reply to an earlier conversation,87,family friend,an acquaintance,a misread calendar entry,English
+433,arranging a delivery,polite and professional,with a subject and a single paragraph,88,classmate,a teammate,a change in priorities,English
+434,following up on a purchase,straight to the point,without a greeting,165,support agent,a close friend,a practical concern,English
+435,thanking a teammate,matter-of-fact,with a greeting but no signature,47,organizer,a project manager,a practical concern,English
+436,giving informal advice,somewhat rushed,with ordinary paragraph breaks,168,colleague,an acquaintance,a time-sensitive change,English
+437,changing a meeting time,polite and professional,with a greeting but no signature,73,organizer,an acquaintance,a change in priorities,English
+438,rescheduling a call,warm and informal,with a short sign-off,250,family friend,a neighbor,a follow-up after two days,English
+439,chatting about hobbies,reserved,as a reply to an earlier conversation,45,classmate,a small group,an unclear instruction,English
+440,thanking a teammate,very short sentences,with a greeting but no signature,137,freelancer,a small group,a slight disagreement,English
+441,coordinating travel,polite and professional,with a short sign-off,63,team lead,a neighbor,an update after an earlier reply,English
+442,asking for help with a technical issue,matter-of-fact,with a short sign-off,85,organizer,a project manager,a time-sensitive change,English
+443,inviting a friend,straight to the point,with ordinary paragraph breaks,136,support agent,a project manager,a travel disruption,English
+444,requesting a document,warm and informal,with a short sign-off,100,classmate,a project manager,a practical concern,English
+445,apologizing for a mix-up,chatty,with a greeting but no signature,59,volunteer,a new client,a slight disagreement,English
+446,following up on a purchase,slightly disorganized,with a greeting but no signature,52,family friend,a coworker,a suggested alternative,English
+447,following up on a purchase,friendly with colloquialisms,with a short sign-off,203,family friend,a project manager,a tight deadline,English
+448,requesting information about a service,casual but respectful,with a greeting but no signature,45,club member,a small group,a missing attachment,English
+449,responding to a complaint,slightly disorganized,with a greeting but no signature,45,colleague,a new client,a travel disruption,English
+450,reporting a small problem,warm and informal,as a reply to an earlier conversation,45,student,a neighbor,a missing attachment,English
+451,arranging a delivery,matter-of-fact,with a short sign-off,71,family friend,a coworker,a suggested alternative,English
+452,sharing event details,chatty,with a greeting but no signature,65,organizer,a service provider,an update after an earlier reply,English
+453,following up on a purchase,polite and professional,with a short sign-off,250,family friend,a close friend,a helpful suggestion,English
+454,responding to a complaint,friendly with colloquialisms,as a reply to an earlier conversation,45,community member,a service provider,an unanticipated expense,English
+455,asking for help with a technical issue,matter-of-fact,without a greeting,160,organizer,a service provider,a conflicting commitment,English
+456,asking for help with a technical issue,very short sentences,with a subject and a single paragraph,86,volunteer,a small group,a follow-up after two days,English
+457,requesting information about a service,matter-of-fact,as a reply to an earlier conversation,250,student,a service provider,a small technical issue,English
+458,organizing a group activity,matter-of-fact,without a greeting,103,classmate,a small group,a slight disagreement,English
+459,asking for feedback,warm and informal,with a subject and a single paragraph,124,community member,a new client,a small technical issue,English
+460,coordinating travel,slightly disorganized,as a reply to an earlier conversation,126,neighbor,a neighbor,a last-minute complication,English
+461,sharing event details,reserved,as a reply to an earlier conversation,230,family friend,an acquaintance,a follow-up after two days,English
+462,clarifying a previous request,warm and informal,with a short sign-off,175,classmate,a project manager,a follow-up after two days,English
+463,coordinating travel,matter-of-fact,with a subject and a single paragraph,221,student,a teammate,a travel disruption,English
+464,sending a reminder,straight to the point,as a reply to an earlier conversation,101,freelancer,a neighbor,a practical concern,English
+465,asking for clarification about deadlines,casual but respectful,with ordinary paragraph breaks,76,colleague,a professor,an unclear instruction,English
+466,rescheduling a call,polite and professional,with a subject and a single paragraph,182,freelancer,a professor,a suggested alternative,English
+467,coordinating travel,very short sentences,as a reply to an earlier conversation,235,support agent,a neighbor,a suggested alternative,English
+468,project updates,friendly with colloquialisms,with a short sign-off,85,volunteer,a project manager,a misread calendar entry,English
+469,requesting a document,somewhat rushed,without a greeting,132,club member,a small group,an unclear instruction,English
+470,arranging a delivery,somewhat rushed,with a subject and a single paragraph,201,team lead,a service provider,a travel disruption,English
+471,sending a reminder,direct and practical,as a reply to an earlier conversation,233,family friend,a teammate,a misread calendar entry,English
+472,coordinating travel,somewhat rushed,without a greeting,117,classmate,a teammate,a slight disagreement,English
+473,coordinating travel,matter-of-fact,without a greeting,139,volunteer,a project manager,an unexpectedly good outcome,English
+474,following up on a purchase,reserved,with a short sign-off,196,team lead,a professor,an unclear instruction,English
+475,chatting about hobbies,matter-of-fact,as a reply to an earlier conversation,45,student,a coworker,a change in priorities,English
+476,inviting a friend,warm and informal,with a short sign-off,60,family friend,an acquaintance,a conflicting commitment,English
+477,describing a weekend plan,polite and professional,without a greeting,135,freelancer,an acquaintance,an unfinished task,English
+478,describing a weekend plan,polite and professional,with a short sign-off,216,customer,a neighbor,a travel disruption,English
+479,asking for help with a technical issue,straight to the point,with a greeting but no signature,186,community member,a new client,a time-sensitive change,English
+480,asking for clarification about deadlines,slightly disorganized,without a greeting,77,student,a coworker,an update after an earlier reply,English
+481,apologizing for a mix-up,direct and practical,with a short sign-off,250,club member,a neighbor,an unclear instruction,English
+482,replying about an appointment,straight to the point,without a greeting,203,organizer,a small group,a change in priorities,English
+483,sending a reminder,slightly disorganized,with a subject and a single paragraph,241,neighbor,a small group,an update after an earlier reply,English
+484,asking for clarification about deadlines,direct and practical,without a greeting,98,family friend,a professor,a follow-up after two days,English
+485,coordinating travel,reserved,as a reply to an earlier conversation,86,student,an acquaintance,a travel disruption,English
+486,explaining a delay,somewhat rushed,with a subject and a single paragraph,148,community member,a coworker,a follow-up after two days,English
+487,clarifying a previous request,reserved,as a reply to an earlier conversation,45,customer,a professor,an unexpectedly good outcome,English
+488,asking for clarification about deadlines,straight to the point,as a reply to an earlier conversation,250,support agent,an acquaintance,an unanticipated expense,English
+489,chatting about hobbies,chatty,with ordinary paragraph breaks,48,neighbor,an acquaintance,a change in priorities,English
+490,arranging a delivery,friendly with colloquialisms,with a short sign-off,132,student,an acquaintance,a conflicting commitment,English
+491,coordinating travel,slightly disorganized,with ordinary paragraph breaks,45,freelancer,a service provider,a suggested alternative,English
+492,giving informal advice,reserved,without a greeting,250,student,a project manager,a misread calendar entry,English
+493,asking a colleague a question,matter-of-fact,with a short sign-off,150,colleague,an acquaintance,a practical concern,English
+494,apologizing for a mix-up,casual but respectful,with ordinary paragraph breaks,69,freelancer,a coworker,an unanticipated expense,English
+495,responding to a complaint,somewhat rushed,with ordinary paragraph breaks,220,support agent,an acquaintance,a missing attachment,English
+496,sharing event details,reserved,with a greeting but no signature,93,organizer,a close friend,a tight deadline,English
+497,asking a colleague a question,chatty,with a short sign-off,139,support agent,a new client,a missing attachment,English
+498,organizing a group activity,warm and informal,with a greeting but no signature,170,freelancer,a teammate,a last-minute complication,English
+499,rescheduling a call,somewhat rushed,without a greeting,56,student,a professor,a helpful suggestion,English
+500,asking a colleague a question,warm and informal,without a greeting,61,team lead,a professor,a travel disruption,English
+501,project updates,casual but respectful,with a greeting but no signature,73,classmate,an acquaintance,an update after an earlier reply,English
+502,project updates,friendly with colloquialisms,with a subject and a single paragraph,250,family friend,a professor,a conflicting commitment,English
+503,asking a colleague a question,chatty,with a subject and a single paragraph,250,colleague,a coworker,a follow-up after two days,English
+504,asking for clarification about deadlines,casual but respectful,with ordinary paragraph breaks,187,freelancer,an acquaintance,a time-sensitive change,English
+505,asking for clarification about deadlines,reserved,without a greeting,45,community member,a new client,a slight disagreement,English
+506,sharing event details,direct and practical,with a greeting but no signature,152,family friend,an acquaintance,an unfinished task,English
+507,discussing classwork,reserved,with a greeting but no signature,86,organizer,a teammate,an unexpectedly good outcome,English
+508,coordinating travel,warm and informal,as a reply to an earlier conversation,71,student,a neighbor,a conflicting commitment,English
+509,requesting information about a service,polite and professional,with a subject and a single paragraph,75,club member,a new client,a suggested alternative,English
+510,replying about an appointment,matter-of-fact,with a subject and a single paragraph,59,organizer,a small group,a practical concern,English
+511,organizing a group activity,polite and professional,with a short sign-off,250,club member,a project manager,a misread calendar entry,English
+512,chatting about hobbies,matter-of-fact,with ordinary paragraph breaks,48,neighbor,a small group,a conflicting commitment,English
+513,rescheduling a call,chatty,with ordinary paragraph breaks,84,club member,a project manager,a last-minute complication,English
+514,asking for help with a technical issue,somewhat rushed,without a greeting,51,team lead,a project manager,a missing attachment,English
+515,apologizing for a mix-up,chatty,as a reply to an earlier conversation,47,team lead,a teammate,a slight disagreement,English
+516,reporting a small problem,somewhat rushed,as a reply to an earlier conversation,228,family friend,a neighbor,a missing attachment,English
+517,clarifying a previous request,chatty,as a reply to an earlier conversation,89,freelancer,a project manager,a small technical issue,English
+518,sharing event details,very short sentences,without a greeting,171,classmate,a professor,a helpful suggestion,English
+519,giving informal advice,friendly with colloquialisms,without a greeting,250,family friend,a teammate,an update after an earlier reply,English
+520,asking for help with a technical issue,very short sentences,with a subject and a single paragraph,79,student,a project manager,a conflicting commitment,English
+521,sending a reminder,direct and practical,as a reply to an earlier conversation,102,club member,a coworker,a conflicting commitment,English
+522,project updates,chatty,with a short sign-off,237,neighbor,a teammate,a missing attachment,English
+523,describing a weekend plan,direct and practical,with a subject and a single paragraph,250,neighbor,a coworker,an unanticipated expense,English
+524,reporting a small problem,somewhat rushed,with ordinary paragraph breaks,168,volunteer,a service provider,a change in priorities,English
+525,arranging a delivery,friendly with colloquialisms,without a greeting,202,volunteer,a teammate,an unclear instruction,English
+526,asking a colleague a question,direct and practical,without a greeting,153,support agent,a service provider,an update after an earlier reply,English
+527,organizing a group activity,matter-of-fact,without a greeting,62,organizer,a coworker,a misread calendar entry,English
+528,reporting a small problem,chatty,with a short sign-off,196,neighbor,a project manager,a helpful suggestion,English
+529,asking for help with a technical issue,straight to the point,with a subject and a single paragraph,88,freelancer,a small group,a suggested alternative,English
+530,planning a visit,casual but respectful,with a greeting but no signature,250,freelancer,a project manager,a change in priorities,English
+531,clarifying a previous request,friendly with colloquialisms,with a short sign-off,111,neighbor,a small group,an unfinished task,English
+532,chatting about hobbies,matter-of-fact,with a subject and a single paragraph,230,student,an acquaintance,a follow-up after two days,English
+533,sharing event details,reserved,with a subject and a single paragraph,87,neighbor,a service provider,a change in priorities,English
+534,clarifying a previous request,chatty,with a greeting but no signature,139,freelancer,a teammate,a practical concern,English
+535,requesting information about a service,direct and practical,with a short sign-off,250,support agent,an acquaintance,an unexpectedly good outcome,English
+536,giving informal advice,slightly disorganized,with a short sign-off,73,classmate,an acquaintance,a misread calendar entry,English
+537,discussing classwork,straight to the point,with a subject and a single paragraph,49,customer,a professor,an unclear instruction,English
+538,explaining a delay,matter-of-fact,with a short sign-off,137,student,a coworker,a suggested alternative,English
+539,inviting a friend,slightly disorganized,with ordinary paragraph breaks,116,customer,a close friend,a last-minute complication,English
+540,arranging a delivery,reserved,with ordinary paragraph breaks,105,neighbor,an acquaintance,a time-sensitive change,English
+541,thanking a teammate,straight to the point,as a reply to an earlier conversation,45,community member,a professor,a misread calendar entry,English
+542,asking for clarification about deadlines,somewhat rushed,with a greeting but no signature,113,club member,a project manager,an unfinished task,English
+543,asking a colleague a question,polite and professional,with a short sign-off,77,freelancer,a service provider,a practical concern,English
+544,responding to a complaint,matter-of-fact,with ordinary paragraph breaks,80,volunteer,an acquaintance,a change in priorities,English
+545,asking for help with a technical issue,direct and practical,without a greeting,220,community member,a new client,an unfinished task,English
+546,asking a colleague a question,matter-of-fact,with ordinary paragraph breaks,230,club member,a new client,a time-sensitive change,English
+547,giving informal advice,matter-of-fact,with a short sign-off,250,family friend,a professor,a small technical issue,English
+548,thanking a teammate,direct and practical,as a reply to an earlier conversation,45,customer,a neighbor,a conflicting commitment,English
+549,responding to a complaint,reserved,with a short sign-off,75,family friend,an acquaintance,a helpful suggestion,English
+550,chatting about hobbies,friendly with colloquialisms,with ordinary paragraph breaks,58,neighbor,a neighbor,a misread calendar entry,English
+551,chatting about hobbies,casual but respectful,with a short sign-off,45,team lead,a coworker,a follow-up after two days,English
+552,requesting a document,somewhat rushed,with a short sign-off,103,freelancer,a teammate,a missing attachment,English
+553,responding to a complaint,polite and professional,without a greeting,87,neighbor,a service provider,a tight deadline,English
+554,reporting a small problem,reserved,with a greeting but no signature,130,support agent,a professor,a misread calendar entry,English
+555,explaining a delay,straight to the point,as a reply to an earlier conversation,83,volunteer,a close friend,a misread calendar entry,English
+556,apologizing for a mix-up,reserved,with a subject and a single paragraph,156,customer,a new client,a follow-up after two days,English
+557,describing a weekend plan,very short sentences,without a greeting,100,colleague,a project manager,an unanticipated expense,English
+558,organizing a group activity,polite and professional,with a subject and a single paragraph,250,club member,a close friend,a helpful suggestion,English
+559,sending a reminder,polite and professional,with a subject and a single paragraph,250,classmate,a teammate,a practical concern,English
+560,discussing classwork,friendly with colloquialisms,with a subject and a single paragraph,80,family friend,a small group,an update after an earlier reply,English
+561,clarifying a previous request,somewhat rushed,with ordinary paragraph breaks,165,student,a new client,a small technical issue,English
+562,describing a weekend plan,slightly disorganized,with a subject and a single paragraph,87,customer,a coworker,a misread calendar entry,English
+563,giving informal advice,friendly with colloquialisms,without a greeting,91,support agent,a project manager,a small favor,English
+564,coordinating travel,reserved,as a reply to an earlier conversation,250,community member,a project manager,an unfinished task,English
+565,project updates,warm and informal,without a greeting,51,neighbor,a project manager,a suggested alternative,English
+566,explaining a delay,polite and professional,with ordinary paragraph breaks,131,student,a close friend,an unfinished task,English
+567,arranging a delivery,straight to the point,as a reply to an earlier conversation,108,community member,a teammate,a slight disagreement,English
+568,thanking a teammate,polite and professional,as a reply to an earlier conversation,196,classmate,a small group,a conflicting commitment,English
+569,following up on a purchase,warm and informal,with a short sign-off,86,customer,a professor,a misread calendar entry,English
+570,organizing a group activity,somewhat rushed,with a short sign-off,118,freelancer,a small group,an unfinished task,English
+571,responding to a complaint,very short sentences,as a reply to an earlier conversation,250,volunteer,an acquaintance,a suggested alternative,English
+572,discussing classwork,very short sentences,as a reply to an earlier conversation,76,community member,a coworker,an unfinished task,English
+573,following up on a purchase,matter-of-fact,with ordinary paragraph breaks,45,team lead,a service provider,a small technical issue,English
+574,requesting information about a service,polite and professional,with a greeting but no signature,116,organizer,a teammate,a follow-up after two days,English
+575,describing a weekend plan,matter-of-fact,with a greeting but no signature,94,freelancer,a teammate,an unclear instruction,English
+576,chatting about hobbies,straight to the point,without a greeting,45,customer,a new client,a follow-up after two days,English
+577,apologizing for a mix-up,very short sentences,without a greeting,45,volunteer,an acquaintance,a last-minute complication,English
+578,sending a reminder,friendly with colloquialisms,with a greeting but no signature,46,classmate,a teammate,a small technical issue,English
+579,requesting a document,somewhat rushed,with a subject and a single paragraph,92,organizer,an acquaintance,a helpful suggestion,English
+580,replying about an appointment,warm and informal,as a reply to an earlier conversation,196,community member,a coworker,an update after an earlier reply,English
+581,apologizing for a mix-up,very short sentences,with a greeting but no signature,250,neighbor,an acquaintance,a slight disagreement,English
+582,changing a meeting time,friendly with colloquialisms,without a greeting,80,organizer,a close friend,a time-sensitive change,English
+583,requesting a document,direct and practical,without a greeting,165,support agent,an acquaintance,a misread calendar entry,English
+584,organizing a group activity,very short sentences,with a short sign-off,73,community member,a project manager,a change in priorities,English
+585,organizing a group activity,somewhat rushed,with a greeting but no signature,120,freelancer,a service provider,an unanticipated expense,English
+586,chatting about hobbies,somewhat rushed,with a greeting but no signature,66,community member,a new client,a time-sensitive change,English
+587,clarifying a previous request,friendly with colloquialisms,with ordinary paragraph breaks,45,neighbor,a coworker,a time-sensitive change,English
+588,giving informal advice,casual but respectful,with a short sign-off,84,family friend,an acquaintance,a missing attachment,English
+589,changing a meeting time,slightly disorganized,with a greeting but no signature,145,family friend,a service provider,a conflicting commitment,English
+590,project updates,matter-of-fact,as a reply to an earlier conversation,95,colleague,a close friend,a helpful suggestion,English
+591,reporting a small problem,direct and practical,with a short sign-off,45,student,a small group,an unfinished task,English
+592,giving informal advice,polite and professional,with a subject and a single paragraph,250,student,a professor,a tight deadline,English
+593,following up on a purchase,polite and professional,with a short sign-off,118,support agent,a close friend,a time-sensitive change,English
+594,rescheduling a call,casual but respectful,with a subject and a single paragraph,250,support agent,a small group,a practical concern,English
+595,asking for help with a technical issue,casual but respectful,with a short sign-off,63,organizer,a project manager,a helpful suggestion,English
+596,requesting a document,direct and practical,with a short sign-off,64,club member,a neighbor,an unexpectedly good outcome,English
+597,reporting a small problem,chatty,with ordinary paragraph breaks,70,support agent,a close friend,an unfinished task,English
+598,asking for clarification about deadlines,polite and professional,with a subject and a single paragraph,155,family friend,a professor,a helpful suggestion,English
+599,apologizing for a mix-up,chatty,as a reply to an earlier conversation,75,classmate,a project manager,an unfinished task,English
+600,planning a visit,polite and professional,with a subject and a single paragraph,62,colleague,a teammate,an unfinished task,English
+601,organizing a group activity,matter-of-fact,with a greeting but no signature,50,team lead,a project manager,a misread calendar entry,English
+602,changing a meeting time,direct and practical,without a greeting,69,student,a professor,a practical concern,English
+603,following up on a purchase,reserved,with a subject and a single paragraph,250,neighbor,a close friend,an unfinished task,English
+604,apologizing for a mix-up,slightly disorganized,with a subject and a single paragraph,45,organizer,an acquaintance,a conflicting commitment,English
+605,clarifying a previous request,casual but respectful,with a greeting but no signature,221,team lead,a professor,a small favor,English
+606,explaining a delay,casual but respectful,with a short sign-off,159,organizer,a close friend,a suggested alternative,English
+607,replying about an appointment,polite and professional,with a greeting but no signature,97,student,a small group,a helpful suggestion,English
+608,apologizing for a mix-up,chatty,as a reply to an earlier conversation,49,neighbor,a close friend,a change in priorities,English
+609,giving informal advice,warm and informal,with a short sign-off,45,customer,a teammate,a last-minute complication,English
+610,asking for clarification about deadlines,polite and professional,with a short sign-off,165,family friend,a coworker,a tight deadline,English
+611,inviting a friend,chatty,with a short sign-off,70,student,a neighbor,a follow-up after two days,English
+612,chatting about hobbies,friendly with colloquialisms,with a short sign-off,56,customer,a close friend,a follow-up after two days,English
+613,clarifying a previous request,direct and practical,without a greeting,45,colleague,a small group,a conflicting commitment,English
+614,planning a visit,warm and informal,with ordinary paragraph breaks,120,community member,a neighbor,a suggested alternative,English
+615,changing a meeting time,casual but respectful,with a greeting but no signature,66,volunteer,a neighbor,a small favor,English
+616,planning a visit,very short sentences,without a greeting,108,team lead,a close friend,a suggested alternative,English
+617,rescheduling a call,very short sentences,with ordinary paragraph breaks,211,volunteer,a new client,a missing attachment,English
+618,planning a visit,warm and informal,with ordinary paragraph breaks,45,neighbor,a new client,an unclear instruction,English
+619,rescheduling a call,somewhat rushed,with a short sign-off,236,colleague,a small group,a time-sensitive change,English
+620,project updates,direct and practical,as a reply to an earlier conversation,131,student,a new client,a time-sensitive change,English
+621,reporting a small problem,casual but respectful,with a subject and a single paragraph,89,freelancer,a teammate,a travel disruption,English
+622,requesting information about a service,casual but respectful,as a reply to an earlier conversation,165,colleague,a service provider,a missing attachment,English
+623,apologizing for a mix-up,somewhat rushed,with a short sign-off,45,freelancer,a close friend,a slight disagreement,English
+624,rescheduling a call,direct and practical,with a greeting but no signature,250,freelancer,a project manager,a helpful suggestion,English
+625,giving informal advice,matter-of-fact,as a reply to an earlier conversation,250,team lead,a service provider,a time-sensitive change,English
+626,asking for feedback,friendly with colloquialisms,with a greeting but no signature,169,organizer,a professor,a helpful suggestion,English
+627,replying about an appointment,somewhat rushed,with a greeting but no signature,61,family friend,a neighbor,a missing attachment,English
+628,requesting information about a service,slightly disorganized,with a greeting but no signature,250,club member,a service provider,a helpful suggestion,English
+629,following up on a purchase,matter-of-fact,with ordinary paragraph breaks,76,customer,a neighbor,a practical concern,English
+630,replying about an appointment,matter-of-fact,as a reply to an earlier conversation,66,customer,a teammate,a follow-up after two days,English
+631,asking for clarification about deadlines,polite and professional,as a reply to an earlier conversation,45,colleague,a close friend,an unclear instruction,English
+632,replying about an appointment,reserved,as a reply to an earlier conversation,105,family friend,an acquaintance,a helpful suggestion,English
+633,following up on a purchase,direct and practical,with a greeting but no signature,87,club member,a service provider,a last-minute complication,English
+634,replying about an appointment,straight to the point,with a short sign-off,170,team lead,a service provider,an unanticipated expense,English
+635,asking a colleague a question,polite and professional,without a greeting,100,colleague,a teammate,a time-sensitive change,English
+636,asking for help with a technical issue,straight to the point,with a subject and a single paragraph,85,freelancer,a service provider,a change in priorities,English
+637,asking for help with a technical issue,direct and practical,with a greeting but no signature,50,club member,a neighbor,a conflicting commitment,English
+638,asking a colleague a question,chatty,with a short sign-off,229,volunteer,a project manager,a small favor,English
+639,project updates,straight to the point,as a reply to an earlier conversation,250,community member,a new client,an update after an earlier reply,English
+640,arranging a delivery,polite and professional,with a short sign-off,175,colleague,an acquaintance,a practical concern,English
+641,following up on a purchase,straight to the point,with a greeting but no signature,250,customer,a new client,a missing attachment,English
+642,asking for clarification about deadlines,chatty,with a subject and a single paragraph,178,community member,a project manager,a last-minute complication,English
+643,project updates,matter-of-fact,with a short sign-off,250,freelancer,a new client,an unclear instruction,English
+644,planning a visit,matter-of-fact,with a greeting but no signature,99,club member,a professor,a conflicting commitment,English
+645,rescheduling a call,reserved,with a short sign-off,250,student,an acquaintance,an unexpectedly good outcome,English
+646,discussing classwork,straight to the point,with ordinary paragraph breaks,82,classmate,a new client,a tight deadline,English
+647,coordinating travel,slightly disorganized,with ordinary paragraph breaks,187,freelancer,a professor,a suggested alternative,English
+648,organizing a group activity,matter-of-fact,as a reply to an earlier conversation,87,community member,a new client,a follow-up after two days,English
+649,describing a weekend plan,chatty,with a subject and a single paragraph,119,community member,a coworker,a tight deadline,English
+650,giving informal advice,very short sentences,with a greeting but no signature,250,colleague,a coworker,a small favor,English
+651,asking for feedback,somewhat rushed,with a greeting but no signature,250,support agent,a small group,a practical concern,English
+652,planning a visit,reserved,with a subject and a single paragraph,152,team lead,a coworker,an unexpectedly good outcome,English
+653,discussing classwork,straight to the point,with a short sign-off,45,neighbor,a professor,a time-sensitive change,English
+654,asking a colleague a question,matter-of-fact,with a greeting but no signature,233,classmate,a neighbor,a helpful suggestion,English
+655,rescheduling a call,casual but respectful,with ordinary paragraph breaks,53,colleague,a project manager,a small technical issue,English
+656,following up on a purchase,matter-of-fact,as a reply to an earlier conversation,99,support agent,a coworker,an unexpectedly good outcome,English
+657,changing a meeting time,casual but respectful,with a subject and a single paragraph,201,family friend,a coworker,a misread calendar entry,English
+658,clarifying a previous request,polite and professional,with ordinary paragraph breaks,66,customer,a neighbor,a small technical issue,English
+659,clarifying a previous request,somewhat rushed,without a greeting,46,family friend,a teammate,a last-minute complication,English
+660,project updates,polite and professional,as a reply to an earlier conversation,219,freelancer,a coworker,a misread calendar entry,English
+661,thanking a teammate,very short sentences,with ordinary paragraph breaks,250,team lead,a neighbor,an update after an earlier reply,English
+662,replying about an appointment,direct and practical,with a short sign-off,250,team lead,a service provider,a small favor,English
+663,changing a meeting time,polite and professional,without a greeting,45,classmate,a close friend,a suggested alternative,English
+664,asking for feedback,very short sentences,with a short sign-off,77,customer,a teammate,a helpful suggestion,English
+665,organizing a group activity,somewhat rushed,without a greeting,249,club member,a service provider,a practical concern,English
+666,thanking a teammate,polite and professional,as a reply to an earlier conversation,70,support agent,a coworker,a practical concern,English
+667,asking for clarification about deadlines,somewhat rushed,without a greeting,250,community member,a teammate,a follow-up after two days,English
+668,arranging a delivery,casual but respectful,without a greeting,111,neighbor,a close friend,a last-minute complication,English
+669,asking for feedback,matter-of-fact,with a short sign-off,250,student,a close friend,a missing attachment,English
+670,rescheduling a call,warm and informal,with ordinary paragraph breaks,65,student,a close friend,an unexpectedly good outcome,English
+671,discussing classwork,polite and professional,with ordinary paragraph breaks,61,classmate,a service provider,an update after an earlier reply,English
+672,asking for help with a technical issue,slightly disorganized,with a short sign-off,96,neighbor,a coworker,a conflicting commitment,English
+673,describing a weekend plan,chatty,with ordinary paragraph breaks,45,team lead,a new client,an unexpectedly good outcome,English
+674,requesting information about a service,matter-of-fact,with a greeting but no signature,250,classmate,an acquaintance,an unexpectedly good outcome,English
+675,requesting information about a service,very short sentences,with ordinary paragraph breaks,118,club member,a coworker,an unclear instruction,English
+676,changing a meeting time,straight to the point,as a reply to an earlier conversation,45,community member,a close friend,a practical concern,English
+677,coordinating travel,somewhat rushed,without a greeting,101,family friend,a neighbor,a travel disruption,English
+678,asking for feedback,direct and practical,with ordinary paragraph breaks,114,community member,a project manager,a last-minute complication,English
+679,apologizing for a mix-up,polite and professional,with a subject and a single paragraph,72,organizer,a small group,a small technical issue,English
+680,organizing a group activity,casual but respectful,without a greeting,54,neighbor,a service provider,a practical concern,English
+681,inviting a friend,casual but respectful,with ordinary paragraph breaks,75,support agent,a professor,a suggested alternative,English
+682,explaining a delay,direct and practical,with a greeting but no signature,45,support agent,a teammate,a tight deadline,English
+683,project updates,chatty,with a short sign-off,160,neighbor,a small group,an unexpectedly good outcome,English
+684,rescheduling a call,polite and professional,with a greeting but no signature,68,freelancer,a neighbor,a small technical issue,English
+685,explaining a delay,very short sentences,with a greeting but no signature,91,team lead,a project manager,an unexpectedly good outcome,English
+686,thanking a teammate,casual but respectful,with a subject and a single paragraph,86,community member,a close friend,a practical concern,English
+687,apologizing for a mix-up,very short sentences,with a short sign-off,48,support agent,a close friend,a helpful suggestion,English
+688,sharing event details,direct and practical,with a short sign-off,98,classmate,a coworker,an unfinished task,English
+689,coordinating travel,reserved,as a reply to an earlier conversation,118,classmate,a teammate,a small technical issue,English
+690,asking for help with a technical issue,very short sentences,with a greeting but no signature,69,customer,a service provider,a misread calendar entry,English
+691,inviting a friend,polite and professional,with ordinary paragraph breaks,45,organizer,a close friend,a tight deadline,English
+692,changing a meeting time,reserved,as a reply to an earlier conversation,156,colleague,a coworker,a conflicting commitment,English
+693,discussing classwork,very short sentences,as a reply to an earlier conversation,202,family friend,a service provider,a last-minute complication,English
+694,organizing a group activity,straight to the point,with ordinary paragraph breaks,155,neighbor,a professor,a small technical issue,English
+695,sharing event details,warm and informal,with a greeting but no signature,89,family friend,a project manager,a travel disruption,English
+696,coordinating travel,polite and professional,with a greeting but no signature,89,team lead,a close friend,a small favor,English
+697,coordinating travel,direct and practical,with a subject and a single paragraph,45,student,a coworker,a slight disagreement,English
+698,sharing event details,direct and practical,with ordinary paragraph breaks,250,club member,a new client,a last-minute complication,English
+699,replying about an appointment,somewhat rushed,without a greeting,52,volunteer,a teammate,an unexpectedly good outcome,English
+700,apologizing for a mix-up,somewhat rushed,with ordinary paragraph breaks,58,volunteer,a coworker,a small favor,English
+701,asking a colleague a question,slightly disorganized,with ordinary paragraph breaks,86,volunteer,a new client,an update after an earlier reply,English
+702,organizing a group activity,matter-of-fact,as a reply to an earlier conversation,175,club member,an acquaintance,a misread calendar entry,English
+703,describing a weekend plan,direct and practical,with ordinary paragraph breaks,250,volunteer,a small group,a practical concern,English
+704,asking for feedback,chatty,without a greeting,48,club member,a coworker,a small technical issue,English
+705,arranging a delivery,polite and professional,as a reply to an earlier conversation,225,student,a project manager,a missing attachment,English
+706,apologizing for a mix-up,casual but respectful,with a greeting but no signature,55,organizer,a project manager,a time-sensitive change,English
+707,project updates,casual but respectful,with a subject and a single paragraph,45,club member,a close friend,a time-sensitive change,English
+708,clarifying a previous request,slightly disorganized,with a short sign-off,92,family friend,a project manager,a misread calendar entry,English
+709,responding to a complaint,direct and practical,with a subject and a single paragraph,62,customer,a coworker,an unclear instruction,English
+710,planning a visit,warm and informal,with a short sign-off,81,community member,a neighbor,a small technical issue,English
+711,chatting about hobbies,casual but respectful,without a greeting,250,customer,a professor,a small favor,English
+712,coordinating travel,casual but respectful,with a short sign-off,176,volunteer,a teammate,a practical concern,English
+713,arranging a delivery,straight to the point,as a reply to an earlier conversation,114,team lead,a professor,a travel disruption,English
+714,coordinating travel,direct and practical,with ordinary paragraph breaks,107,team lead,a neighbor,an unclear instruction,English
+715,coordinating travel,slightly disorganized,with a greeting but no signature,158,club member,a close friend,an unanticipated expense,English
+716,thanking a teammate,slightly disorganized,with a greeting but no signature,45,customer,a close friend,a time-sensitive change,English
+717,rescheduling a call,reserved,without a greeting,228,support agent,a teammate,a follow-up after two days,English
+718,replying about an appointment,somewhat rushed,with a greeting but no signature,159,volunteer,a neighbor,a conflicting commitment,English
+719,describing a weekend plan,slightly disorganized,with ordinary paragraph breaks,250,customer,a new client,a last-minute complication,English
+720,asking a colleague a question,somewhat rushed,with a subject and a single paragraph,250,family friend,a coworker,a slight disagreement,English
+721,replying about an appointment,casual but respectful,without a greeting,224,organizer,an acquaintance,a misread calendar entry,English
+722,changing a meeting time,direct and practical,without a greeting,250,colleague,a close friend,a practical concern,English
+723,replying about an appointment,casual but respectful,without a greeting,45,customer,an acquaintance,a helpful suggestion,English
+724,responding to a complaint,friendly with colloquialisms,as a reply to an earlier conversation,100,volunteer,a teammate,a last-minute complication,English
+725,reporting a small problem,reserved,as a reply to an earlier conversation,250,club member,a teammate,a time-sensitive change,English
+726,explaining a delay,straight to the point,with a greeting but no signature,77,team lead,a service provider,a time-sensitive change,English
+727,sharing event details,somewhat rushed,without a greeting,115,freelancer,a small group,a missing attachment,English
+728,requesting information about a service,matter-of-fact,with a short sign-off,61,family friend,a project manager,an unanticipated expense,English
+729,asking for feedback,straight to the point,with a short sign-off,58,neighbor,a close friend,a change in priorities,English
+730,asking for clarification about deadlines,straight to the point,as a reply to an earlier conversation,250,organizer,a new client,a last-minute complication,English
+731,chatting about hobbies,casual but respectful,without a greeting,250,classmate,a close friend,a change in priorities,English
+732,requesting a document,warm and informal,as a reply to an earlier conversation,127,classmate,a teammate,an unanticipated expense,English
+733,thanking a teammate,friendly with colloquialisms,with ordinary paragraph breaks,250,support agent,a neighbor,a conflicting commitment,English
+734,project updates,friendly with colloquialisms,with a greeting but no signature,250,colleague,a project manager,an unanticipated expense,English
+735,arranging a delivery,very short sentences,with a short sign-off,167,classmate,a professor,a small technical issue,English
+736,requesting information about a service,somewhat rushed,with a greeting but no signature,77,organizer,a professor,a missing attachment,English
+737,coordinating travel,somewhat rushed,with a greeting but no signature,127,classmate,a close friend,a tight deadline,English
+738,chatting about hobbies,polite and professional,with a short sign-off,51,support agent,a teammate,a helpful suggestion,English
+739,chatting about hobbies,reserved,with ordinary paragraph breaks,45,organizer,a service provider,a time-sensitive change,English
+740,discussing classwork,direct and practical,with a subject and a single paragraph,53,family friend,a coworker,an update after an earlier reply,English
+741,following up on a purchase,slightly disorganized,with a short sign-off,49,neighbor,a close friend,an update after an earlier reply,English
+742,reporting a small problem,casual but respectful,with a short sign-off,139,neighbor,a professor,a travel disruption,English
+743,reporting a small problem,warm and informal,with a short sign-off,250,team lead,a coworker,a last-minute complication,English
+744,giving informal advice,warm and informal,with ordinary paragraph breaks,97,student,a professor,an update after an earlier reply,English
+745,changing a meeting time,polite and professional,as a reply to an earlier conversation,65,community member,a neighbor,a helpful suggestion,English
+746,following up on a purchase,somewhat rushed,as a reply to an earlier conversation,141,freelancer,a service provider,a tight deadline,English
+747,sending a reminder,polite and professional,with ordinary paragraph breaks,91,community member,a neighbor,a change in priorities,English
+748,project updates,direct and practical,with a subject and a single paragraph,45,freelancer,a teammate,a last-minute complication,English
+749,following up on a purchase,straight to the point,with a short sign-off,249,student,a professor,a missing attachment,English
+750,planning a visit,direct and practical,with ordinary paragraph breaks,71,colleague,a small group,a misread calendar entry,English
+751,project updates,matter-of-fact,without a greeting,96,volunteer,an acquaintance,an unclear instruction,English
+752,coordinating travel,casual but respectful,with a greeting but no signature,250,support agent,a project manager,a slight disagreement,English
+753,asking for feedback,direct and practical,with a short sign-off,250,customer,a professor,a small favor,English
+754,planning a visit,casual but respectful,as a reply to an earlier conversation,109,volunteer,a teammate,a suggested alternative,English
+755,rescheduling a call,very short sentences,with a subject and a single paragraph,89,customer,a teammate,a suggested alternative,English
+756,sharing event details,chatty,without a greeting,225,organizer,a small group,a suggested alternative,English
+757,reporting a small problem,reserved,with ordinary paragraph breaks,148,support agent,a professor,an unfinished task,English
+758,coordinating travel,reserved,with a short sign-off,45,neighbor,a service provider,a small favor,English
+759,replying about an appointment,somewhat rushed,as a reply to an earlier conversation,132,organizer,a teammate,an unexpectedly good outcome,English
+760,thanking a teammate,polite and professional,with a greeting but no signature,250,freelancer,a project manager,a travel disruption,English
+761,coordinating travel,straight to the point,without a greeting,164,community member,a service provider,a time-sensitive change,English
+762,asking for clarification about deadlines,slightly disorganized,with a greeting but no signature,126,colleague,a project manager,a change in priorities,English
+763,asking for feedback,reserved,with a greeting but no signature,76,volunteer,a coworker,an unanticipated expense,English
+764,changing a meeting time,somewhat rushed,with a subject and a single paragraph,59,club member,a project manager,a last-minute complication,English
+765,sharing event details,chatty,with a greeting but no signature,45,student,an acquaintance,a time-sensitive change,English
+766,project updates,straight to the point,with a greeting but no signature,250,team lead,a neighbor,a misread calendar entry,English
+767,thanking a teammate,polite and professional,with a short sign-off,122,community member,a teammate,a misread calendar entry,English
+768,describing a weekend plan,matter-of-fact,with a subject and a single paragraph,51,support agent,a close friend,an unanticipated expense,English
+769,rescheduling a call,slightly disorganized,with a subject and a single paragraph,161,club member,a professor,a missing attachment,English
+770,thanking a teammate,direct and practical,with a short sign-off,192,freelancer,a coworker,an unexpectedly good outcome,English
+771,inviting a friend,somewhat rushed,with a greeting but no signature,200,neighbor,an acquaintance,an unfinished task,English
+772,sending a reminder,reserved,as a reply to an earlier conversation,106,team lead,an acquaintance,a misread calendar entry,English
+773,asking for help with a technical issue,slightly disorganized,as a reply to an earlier conversation,130,customer,a coworker,an unfinished task,English
+774,planning a visit,somewhat rushed,without a greeting,45,classmate,a service provider,an update after an earlier reply,English
+775,asking for help with a technical issue,straight to the point,with a greeting but no signature,63,family friend,a service provider,a conflicting commitment,English
+776,changing a meeting time,chatty,without a greeting,169,organizer,a small group,a misread calendar entry,English
+777,thanking a teammate,friendly with colloquialisms,with a subject and a single paragraph,250,student,a service provider,an unexpectedly good outcome,English
+778,requesting a document,reserved,with a greeting but no signature,47,customer,an acquaintance,a small technical issue,English
+779,planning a visit,straight to the point,with a short sign-off,61,customer,a new client,an unclear instruction,English
+780,apologizing for a mix-up,casual but respectful,as a reply to an earlier conversation,60,family friend,a coworker,a follow-up after two days,English
+781,organizing a group activity,direct and practical,with a greeting but no signature,250,colleague,an acquaintance,a last-minute complication,English
+782,sharing event details,slightly disorganized,with ordinary paragraph breaks,110,team lead,a teammate,a tight deadline,English
+783,clarifying a previous request,friendly with colloquialisms,with a subject and a single paragraph,45,freelancer,a teammate,a travel disruption,English
+784,project updates,matter-of-fact,with ordinary paragraph breaks,45,classmate,a project manager,an unanticipated expense,English
+785,planning a visit,chatty,without a greeting,48,community member,a small group,an unfinished task,English
+786,project updates,straight to the point,with a greeting but no signature,87,support agent,a neighbor,a last-minute complication,English
+787,sending a reminder,very short sentences,with ordinary paragraph breaks,225,community member,a neighbor,a follow-up after two days,English
+788,clarifying a previous request,chatty,with ordinary paragraph breaks,240,team lead,a service provider,a misread calendar entry,English
+789,rescheduling a call,very short sentences,with a greeting but no signature,45,community member,a professor,a last-minute complication,English
+790,sharing event details,slightly disorganized,as a reply to an earlier conversation,250,community member,a coworker,a practical concern,English
+791,thanking a teammate,very short sentences,with a greeting but no signature,236,customer,a coworker,an unanticipated expense,English
+792,project updates,slightly disorganized,without a greeting,250,customer,a neighbor,a time-sensitive change,English
+793,responding to a complaint,chatty,without a greeting,100,support agent,a coworker,a time-sensitive change,English
+794,chatting about hobbies,friendly with colloquialisms,with a short sign-off,61,community member,a new client,a change in priorities,English
+795,asking for help with a technical issue,somewhat rushed,without a greeting,161,student,a project manager,a travel disruption,English
+796,clarifying a previous request,reserved,with ordinary paragraph breaks,72,neighbor,a service provider,a practical concern,English
+797,sending a reminder,matter-of-fact,with a short sign-off,53,customer,a close friend,a misread calendar entry,English
+798,thanking a teammate,straight to the point,as a reply to an earlier conversation,167,family friend,a close friend,a travel disruption,English
+799,following up on a purchase,somewhat rushed,with a greeting but no signature,250,classmate,a neighbor,a travel disruption,English
+800,discussing classwork,polite and professional,with a subject and a single paragraph,71,community member,a professor,a misread calendar entry,English
+801,thanking a teammate,polite and professional,with a short sign-off,250,customer,a coworker,a suggested alternative,English
+802,responding to a complaint,friendly with colloquialisms,without a greeting,45,customer,a new client,an update after an earlier reply,English
+803,giving informal advice,reserved,with ordinary paragraph breaks,80,support agent,a teammate,an unanticipated expense,English
+804,apologizing for a mix-up,slightly disorganized,with a short sign-off,48,freelancer,a project manager,a suggested alternative,English
+805,explaining a delay,very short sentences,with a subject and a single paragraph,250,freelancer,a new client,a missing attachment,English
+806,apologizing for a mix-up,warm and informal,with a greeting but no signature,117,student,an acquaintance,a missing attachment,English
+807,sending a reminder,warm and informal,with ordinary paragraph breaks,139,family friend,a project manager,a travel disruption,English
+808,responding to a complaint,matter-of-fact,with a subject and a single paragraph,80,community member,a professor,a conflicting commitment,English
+809,chatting about hobbies,warm and informal,with ordinary paragraph breaks,250,freelancer,a project manager,a practical concern,English
+810,requesting information about a service,direct and practical,with a greeting but no signature,250,team lead,a professor,a misread calendar entry,English
+811,requesting information about a service,somewhat rushed,with a greeting but no signature,76,neighbor,a service provider,a misread calendar entry,English
+812,changing a meeting time,reserved,with a greeting but no signature,69,neighbor,a coworker,a travel disruption,English
+813,inviting a friend,polite and professional,with a greeting but no signature,57,team lead,a professor,an unanticipated expense,English
+814,giving informal advice,somewhat rushed,as a reply to an earlier conversation,121,club member,a project manager,a small favor,English
+815,planning a visit,casual but respectful,with a short sign-off,45,classmate,a project manager,a tight deadline,English
+816,discussing classwork,casual but respectful,as a reply to an earlier conversation,250,organizer,a small group,a misread calendar entry,English
+817,following up on a purchase,slightly disorganized,with ordinary paragraph breaks,61,classmate,a new client,an unfinished task,English
+818,clarifying a previous request,slightly disorganized,with a greeting but no signature,54,freelancer,a service provider,an update after an earlier reply,English
+819,asking a colleague a question,straight to the point,with a short sign-off,250,student,a coworker,a conflicting commitment,English
+820,inviting a friend,polite and professional,without a greeting,56,team lead,a professor,a suggested alternative,English
+821,thanking a teammate,slightly disorganized,with a short sign-off,250,community member,a service provider,an unfinished task,English
+822,explaining a delay,slightly disorganized,with a greeting but no signature,250,organizer,a small group,a change in priorities,English
+823,clarifying a previous request,somewhat rushed,with a subject and a single paragraph,91,community member,a small group,a misread calendar entry,English
+824,asking for feedback,casual but respectful,without a greeting,85,student,a small group,a time-sensitive change,English
+825,reporting a small problem,polite and professional,with ordinary paragraph breaks,122,team lead,a teammate,a conflicting commitment,English
+826,reporting a small problem,matter-of-fact,with a short sign-off,60,club member,a close friend,a change in priorities,English
+827,changing a meeting time,straight to the point,with a greeting but no signature,250,volunteer,a neighbor,a missing attachment,English
+828,organizing a group activity,somewhat rushed,without a greeting,69,classmate,a teammate,a small favor,English
+829,following up on a purchase,reserved,with ordinary paragraph breaks,81,student,a coworker,a slight disagreement,English
+830,replying about an appointment,direct and practical,as a reply to an earlier conversation,59,classmate,a close friend,a practical concern,English
+831,changing a meeting time,polite and professional,with a subject and a single paragraph,249,student,a coworker,a small technical issue,English
+832,discussing classwork,slightly disorganized,as a reply to an earlier conversation,50,volunteer,a small group,a helpful suggestion,English
+833,sharing event details,direct and practical,with a short sign-off,250,student,a professor,a small technical issue,English
+834,replying about an appointment,chatty,with a greeting but no signature,125,club member,a service provider,a helpful suggestion,English
+835,rescheduling a call,very short sentences,as a reply to an earlier conversation,60,team lead,a coworker,a last-minute complication,English
+836,planning a visit,very short sentences,with a subject and a single paragraph,63,colleague,a teammate,a last-minute complication,English
+837,explaining a delay,polite and professional,with a greeting but no signature,84,classmate,a project manager,an unfinished task,English
+838,sharing event details,slightly disorganized,with a subject and a single paragraph,140,club member,a neighbor,an unclear instruction,English
+839,inviting a friend,matter-of-fact,with a greeting but no signature,250,volunteer,a new client,a practical concern,English
+840,asking a colleague a question,reserved,with a greeting but no signature,45,organizer,a small group,an unclear instruction,English
+841,giving informal advice,chatty,without a greeting,48,community member,a service provider,a last-minute complication,English
+842,organizing a group activity,somewhat rushed,with ordinary paragraph breaks,230,student,a teammate,a small technical issue,English
+843,asking for help with a technical issue,chatty,without a greeting,115,customer,a neighbor,a small favor,English
+844,planning a visit,casual but respectful,as a reply to an earlier conversation,45,club member,a small group,a travel disruption,English
+845,sending a reminder,friendly with colloquialisms,with ordinary paragraph breaks,45,family friend,a neighbor,a tight deadline,English
+846,asking a colleague a question,chatty,with a short sign-off,250,neighbor,a professor,a missing attachment,English
+847,planning a visit,direct and practical,with a subject and a single paragraph,45,freelancer,a service provider,a small technical issue,English
+848,discussing classwork,straight to the point,as a reply to an earlier conversation,250,family friend,a coworker,a helpful suggestion,English
+849,requesting information about a service,warm and informal,without a greeting,60,student,a service provider,a helpful suggestion,English
+850,rescheduling a call,polite and professional,with a subject and a single paragraph,45,family friend,a coworker,a small favor,English
+851,describing a weekend plan,direct and practical,as a reply to an earlier conversation,45,support agent,a service provider,an unexpectedly good outcome,English
+852,discussing classwork,very short sentences,with a greeting but no signature,45,freelancer,a project manager,an unclear instruction,English
+853,requesting information about a service,somewhat rushed,without a greeting,250,classmate,a new client,an unexpectedly good outcome,English
+854,chatting about hobbies,polite and professional,with ordinary paragraph breaks,249,classmate,a service provider,a missing attachment,English
+855,giving informal advice,direct and practical,with ordinary paragraph breaks,250,team lead,a teammate,an unclear instruction,English
+856,clarifying a previous request,very short sentences,with a subject and a single paragraph,60,classmate,a professor,an unexpectedly good outcome,English
+857,rescheduling a call,slightly disorganized,with a greeting but no signature,104,club member,a small group,a follow-up after two days,English
+858,clarifying a previous request,polite and professional,with a greeting but no signature,72,freelancer,a small group,an unfinished task,English
+859,replying about an appointment,warm and informal,as a reply to an earlier conversation,85,customer,a close friend,a helpful suggestion,English
+860,organizing a group activity,very short sentences,with a subject and a single paragraph,250,support agent,a close friend,a slight disagreement,English
+861,apologizing for a mix-up,polite and professional,with a short sign-off,115,classmate,a new client,a travel disruption,English
+862,inviting a friend,slightly disorganized,as a reply to an earlier conversation,250,customer,a new client,a last-minute complication,English
+863,project updates,straight to the point,with ordinary paragraph breaks,202,community member,a neighbor,an unclear instruction,English
+864,asking for feedback,friendly with colloquialisms,with a greeting but no signature,125,freelancer,an acquaintance,a travel disruption,English
+865,sharing event details,casual but respectful,with a greeting but no signature,63,organizer,an acquaintance,a helpful suggestion,English
+866,describing a weekend plan,straight to the point,without a greeting,91,freelancer,a small group,a travel disruption,English
+867,requesting information about a service,friendly with colloquialisms,without a greeting,89,neighbor,a service provider,a missing attachment,English
+868,requesting a document,friendly with colloquialisms,with a greeting but no signature,191,colleague,a service provider,a follow-up after two days,English
+869,asking a colleague a question,reserved,without a greeting,47,neighbor,a service provider,an unexpectedly good outcome,English
+870,changing a meeting time,friendly with colloquialisms,without a greeting,250,colleague,a service provider,an unexpectedly good outcome,English
+871,describing a weekend plan,somewhat rushed,with a greeting but no signature,54,volunteer,a coworker,a conflicting commitment,English
+872,asking for help with a technical issue,somewhat rushed,with a greeting but no signature,137,classmate,an acquaintance,a helpful suggestion,English
+873,responding to a complaint,matter-of-fact,without a greeting,141,student,a small group,a travel disruption,English
+874,replying about an appointment,casual but respectful,with a subject and a single paragraph,250,classmate,a new client,a practical concern,English
+875,rescheduling a call,slightly disorganized,without a greeting,250,freelancer,a teammate,a change in priorities,English
+876,sharing event details,casual but respectful,without a greeting,164,colleague,a service provider,an unfinished task,English
+877,explaining a delay,somewhat rushed,without a greeting,250,colleague,a teammate,an unanticipated expense,English
+878,sharing event details,somewhat rushed,with a short sign-off,157,organizer,a neighbor,a change in priorities,English
+879,thanking a teammate,direct and practical,as a reply to an earlier conversation,250,support agent,a new client,an unclear instruction,English
+880,responding to a complaint,somewhat rushed,with a greeting but no signature,177,freelancer,a close friend,an unexpectedly good outcome,English
+881,asking for help with a technical issue,reserved,as a reply to an earlier conversation,250,colleague,a project manager,a travel disruption,English
+882,sharing event details,warm and informal,with a short sign-off,70,classmate,a professor,a practical concern,English
+883,giving informal advice,somewhat rushed,with ordinary paragraph breaks,89,support agent,a neighbor,a suggested alternative,English
+884,giving informal advice,somewhat rushed,as a reply to an earlier conversation,52,neighbor,a teammate,a small technical issue,English
+885,requesting a document,direct and practical,with a subject and a single paragraph,46,community member,an acquaintance,a last-minute complication,English
+886,planning a visit,chatty,with a short sign-off,45,family friend,a project manager,an unfinished task,English
+887,reporting a small problem,reserved,with a subject and a single paragraph,46,club member,a project manager,an unfinished task,English
+888,replying about an appointment,friendly with colloquialisms,with a short sign-off,96,volunteer,a project manager,an unclear instruction,English
+889,describing a weekend plan,very short sentences,with ordinary paragraph breaks,208,club member,a professor,a change in priorities,English
+890,changing a meeting time,direct and practical,as a reply to an earlier conversation,250,classmate,a coworker,a misread calendar entry,English
+891,planning a visit,casual but respectful,with a short sign-off,56,club member,a new client,a conflicting commitment,English
+892,asking a colleague a question,direct and practical,with ordinary paragraph breaks,137,team lead,a new client,a slight disagreement,English
+893,organizing a group activity,somewhat rushed,with a subject and a single paragraph,250,support agent,a coworker,a last-minute complication,English
+894,following up on a purchase,very short sentences,with a greeting but no signature,80,neighbor,a close friend,a conflicting commitment,English
+895,thanking a teammate,warm and informal,without a greeting,234,family friend,an acquaintance,a helpful suggestion,English
+896,project updates,direct and practical,with a short sign-off,247,team lead,a teammate,a practical concern,English
+897,arranging a delivery,polite and professional,with a subject and a single paragraph,111,club member,a project manager,a misread calendar entry,English
+898,thanking a teammate,polite and professional,as a reply to an earlier conversation,190,customer,a close friend,a suggested alternative,English
+899,sharing event details,somewhat rushed,without a greeting,45,student,a small group,a helpful suggestion,English
+900,apologizing for a mix-up,straight to the point,as a reply to an earlier conversation,250,freelancer,a project manager,a small favor,English
+901,inviting a friend,direct and practical,with a greeting but no signature,250,volunteer,a project manager,an unclear instruction,English
+902,giving informal advice,polite and professional,without a greeting,54,club member,an acquaintance,a follow-up after two days,English
+903,asking for clarification about deadlines,casual but respectful,without a greeting,165,family friend,a project manager,an unfinished task,English
+904,reporting a small problem,very short sentences,with a greeting but no signature,250,customer,a project manager,an unanticipated expense,English
+905,requesting a document,polite and professional,without a greeting,49,neighbor,a project manager,a last-minute complication,English
+906,rescheduling a call,warm and informal,with ordinary paragraph breaks,250,organizer,a neighbor,a slight disagreement,English
+907,arranging a delivery,casual but respectful,as a reply to an earlier conversation,92,classmate,a neighbor,a small technical issue,English
+908,planning a visit,matter-of-fact,with a greeting but no signature,228,organizer,a service provider,a conflicting commitment,English
+909,giving informal advice,somewhat rushed,with a subject and a single paragraph,250,neighbor,a new client,an update after an earlier reply,English
+910,requesting a document,slightly disorganized,without a greeting,192,team lead,a small group,a suggested alternative,English
+911,following up on a purchase,friendly with colloquialisms,with a greeting but no signature,250,club member,a small group,a small technical issue,English
+912,coordinating travel,reserved,with ordinary paragraph breaks,250,club member,a close friend,a small technical issue,English
+913,organizing a group activity,very short sentences,with a subject and a single paragraph,114,team lead,a close friend,a misread calendar entry,English
+914,inviting a friend,reserved,as a reply to an earlier conversation,109,community member,a close friend,an unclear instruction,English
+915,reporting a small problem,chatty,with ordinary paragraph breaks,55,organizer,a close friend,a last-minute complication,English
+916,reporting a small problem,slightly disorganized,with a short sign-off,94,support agent,a neighbor,an unclear instruction,English
+917,asking a colleague a question,somewhat rushed,with a greeting but no signature,87,community member,a teammate,an unfinished task,English
+918,giving informal advice,friendly with colloquialisms,with a subject and a single paragraph,63,student,a professor,a suggested alternative,English
+919,project updates,straight to the point,without a greeting,214,community member,a new client,a practical concern,English
+920,rescheduling a call,warm and informal,with a short sign-off,138,support agent,an acquaintance,a time-sensitive change,English
+921,arranging a delivery,chatty,without a greeting,224,customer,a coworker,a misread calendar entry,English
+922,apologizing for a mix-up,direct and practical,with ordinary paragraph breaks,75,colleague,a neighbor,a travel disruption,English
+923,asking for help with a technical issue,direct and practical,with a greeting but no signature,54,customer,a project manager,a misread calendar entry,English
+924,chatting about hobbies,casual but respectful,with a subject and a single paragraph,250,classmate,a small group,a follow-up after two days,English
+925,clarifying a previous request,direct and practical,as a reply to an earlier conversation,250,support agent,a new client,a slight disagreement,English
+926,asking a colleague a question,straight to the point,as a reply to an earlier conversation,119,colleague,an acquaintance,a suggested alternative,English
+927,giving informal advice,somewhat rushed,with a subject and a single paragraph,226,volunteer,a new client,a time-sensitive change,English
+928,requesting a document,polite and professional,as a reply to an earlier conversation,49,neighbor,a teammate,a slight disagreement,English
+929,asking for feedback,casual but respectful,without a greeting,102,neighbor,a project manager,an unclear instruction,English
+930,reporting a small problem,warm and informal,with ordinary paragraph breaks,63,classmate,a close friend,an unanticipated expense,English
+931,replying about an appointment,casual but respectful,without a greeting,45,volunteer,a coworker,an unanticipated expense,English
+932,clarifying a previous request,matter-of-fact,without a greeting,219,club member,an acquaintance,a follow-up after two days,English
+933,discussing classwork,slightly disorganized,with a subject and a single paragraph,250,freelancer,a project manager,a last-minute complication,English
+934,rescheduling a call,casual but respectful,as a reply to an earlier conversation,50,neighbor,a teammate,a follow-up after two days,English
+935,apologizing for a mix-up,reserved,with a greeting but no signature,85,colleague,a coworker,a travel disruption,English
+936,reporting a small problem,matter-of-fact,with a greeting but no signature,250,volunteer,a new client,a slight disagreement,English
+937,asking for clarification about deadlines,warm and informal,with a subject and a single paragraph,105,customer,a new client,a follow-up after two days,English
+938,requesting information about a service,straight to the point,as a reply to an earlier conversation,165,support agent,a new client,a suggested alternative,English
+939,asking for feedback,straight to the point,as a reply to an earlier conversation,97,student,a close friend,an unfinished task,English
+940,replying about an appointment,matter-of-fact,with a short sign-off,87,family friend,a small group,a small technical issue,English
+941,chatting about hobbies,warm and informal,with a subject and a single paragraph,74,customer,a teammate,an unanticipated expense,English
+942,requesting information about a service,slightly disorganized,as a reply to an earlier conversation,250,community member,a coworker,a follow-up after two days,English
+943,sending a reminder,warm and informal,with a greeting but no signature,45,neighbor,a close friend,a suggested alternative,English
+944,requesting a document,chatty,as a reply to an earlier conversation,54,family friend,a service provider,an unclear instruction,English
+945,asking for help with a technical issue,somewhat rushed,with a greeting but no signature,60,team lead,a small group,a small technical issue,English
+946,sharing event details,friendly with colloquialisms,with ordinary paragraph breaks,72,freelancer,an acquaintance,an unanticipated expense,English
+947,giving informal advice,friendly with colloquialisms,with ordinary paragraph breaks,250,customer,a project manager,a tight deadline,English
+948,giving informal advice,somewhat rushed,without a greeting,241,volunteer,a professor,a suggested alternative,English
+949,planning a visit,straight to the point,with ordinary paragraph breaks,59,freelancer,a service provider,a practical concern,English
+950,apologizing for a mix-up,somewhat rushed,with a greeting but no signature,250,community member,a close friend,a practical concern,English
+951,asking for clarification about deadlines,polite and professional,as a reply to an earlier conversation,60,volunteer,a close friend,a slight disagreement,English
+952,explaining a delay,friendly with colloquialisms,with a greeting but no signature,196,colleague,a service provider,a last-minute complication,English
+953,planning a visit,somewhat rushed,without a greeting,250,freelancer,a project manager,an unfinished task,English
+954,chatting about hobbies,chatty,with a greeting but no signature,83,team lead,an acquaintance,a helpful suggestion,English
+955,organizing a group activity,very short sentences,as a reply to an earlier conversation,99,neighbor,a close friend,a practical concern,English
+956,arranging a delivery,friendly with colloquialisms,with a subject and a single paragraph,118,club member,a coworker,a missing attachment,English
+957,reporting a small problem,reserved,with ordinary paragraph breaks,250,colleague,a professor,a tight deadline,English
+958,discussing classwork,slightly disorganized,without a greeting,77,community member,a new client,an unanticipated expense,English
+959,project updates,direct and practical,as a reply to an earlier conversation,53,club member,a neighbor,a slight disagreement,English
+960,clarifying a previous request,casual but respectful,with a short sign-off,229,club member,a new client,an unanticipated expense,English
+961,asking for clarification about deadlines,chatty,with a subject and a single paragraph,79,classmate,a coworker,an unexpectedly good outcome,English
+962,responding to a complaint,chatty,without a greeting,250,classmate,a service provider,a helpful suggestion,English
+963,asking a colleague a question,very short sentences,without a greeting,96,neighbor,a project manager,a time-sensitive change,English
+964,explaining a delay,somewhat rushed,with a greeting but no signature,62,colleague,a close friend,a conflicting commitment,English
+965,inviting a friend,warm and informal,with a short sign-off,53,support agent,a project manager,a follow-up after two days,English
+966,asking for help with a technical issue,very short sentences,as a reply to an earlier conversation,250,freelancer,a new client,a slight disagreement,English
+967,reporting a small problem,reserved,with ordinary paragraph breaks,119,organizer,a service provider,a practical concern,English
+968,discussing classwork,reserved,with ordinary paragraph breaks,117,student,a new client,a helpful suggestion,English
+969,requesting information about a service,direct and practical,with a subject and a single paragraph,232,freelancer,an acquaintance,a small technical issue,English
+970,discussing classwork,somewhat rushed,with a greeting but no signature,137,customer,a neighbor,an unexpectedly good outcome,English
+971,asking for clarification about deadlines,friendly with colloquialisms,with a short sign-off,153,volunteer,a project manager,a time-sensitive change,English
+972,changing a meeting time,straight to the point,with a greeting but no signature,134,customer,a neighbor,a change in priorities,English
+973,chatting about hobbies,slightly disorganized,with a greeting but no signature,85,classmate,a new client,a change in priorities,English
+974,apologizing for a mix-up,polite and professional,with a subject and a single paragraph,74,freelancer,a project manager,an unfinished task,English
+975,asking for help with a technical issue,chatty,without a greeting,54,community member,an acquaintance,a conflicting commitment,English
+976,rescheduling a call,slightly disorganized,with ordinary paragraph breaks,53,organizer,a project manager,a follow-up after two days,English
+977,asking for help with a technical issue,polite and professional,as a reply to an earlier conversation,58,team lead,a teammate,a practical concern,English
+978,asking for help with a technical issue,slightly disorganized,without a greeting,80,support agent,a project manager,a helpful suggestion,English
+979,sharing event details,reserved,with ordinary paragraph breaks,76,club member,a new client,a slight disagreement,English
+980,replying about an appointment,matter-of-fact,with a subject and a single paragraph,140,family friend,a new client,a misread calendar entry,English
+981,asking a colleague a question,somewhat rushed,with a greeting but no signature,104,family friend,a professor,a slight disagreement,English
+982,arranging a delivery,matter-of-fact,with ordinary paragraph breaks,45,classmate,a coworker,a tight deadline,English
+983,thanking a teammate,reserved,without a greeting,54,customer,a professor,a misread calendar entry,English
+984,chatting about hobbies,slightly disorganized,with a subject and a single paragraph,45,team lead,a teammate,a slight disagreement,English
+985,planning a visit,straight to the point,as a reply to an earlier conversation,115,freelancer,a neighbor,an unanticipated expense,English
+986,apologizing for a mix-up,slightly disorganized,with a subject and a single paragraph,47,freelancer,a project manager,a tight deadline,English
+987,planning a visit,straight to the point,with a subject and a single paragraph,45,volunteer,a professor,a conflicting commitment,English
+988,asking for clarification about deadlines,reserved,without a greeting,87,student,a small group,a travel disruption,English
+989,thanking a teammate,matter-of-fact,without a greeting,211,colleague,a teammate,an update after an earlier reply,English
+990,sharing event details,matter-of-fact,as a reply to an earlier conversation,113,team lead,a small group,a change in priorities,English
+991,asking a colleague a question,straight to the point,with a subject and a single paragraph,250,classmate,a coworker,a suggested alternative,English
+992,sharing event details,slightly disorganized,with a short sign-off,70,support agent,a project manager,a practical concern,English
+993,chatting about hobbies,matter-of-fact,with a subject and a single paragraph,48,volunteer,a close friend,a small technical issue,English
+994,asking a colleague a question,very short sentences,with a subject and a single paragraph,53,club member,a project manager,an unclear instruction,English
+995,clarifying a previous request,friendly with colloquialisms,with a greeting but no signature,123,colleague,a small group,a misread calendar entry,English
+996,chatting about hobbies,slightly disorganized,with ordinary paragraph breaks,116,colleague,a teammate,an unfinished task,English
+997,discussing classwork,casual but respectful,with a short sign-off,187,community member,a service provider,a last-minute complication,English
+998,planning a visit,straight to the point,with a short sign-off,47,family friend,a service provider,a last-minute complication,English
+999,clarifying a previous request,slightly disorganized,without a greeting,125,neighbor,an acquaintance,a change in priorities,English
+1000,asking for clarification about deadlines,somewhat rushed,with a greeting but no signature,86,neighbor,a new client,a change in priorities,English
